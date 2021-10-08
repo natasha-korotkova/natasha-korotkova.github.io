@@ -99,6 +99,8 @@ body {
 
 ol {font-weight: bold;}
 ol li span.label {font-weight:normal;}
+li {
+    display: list-item;}
 
 /*unordered list*/
 
