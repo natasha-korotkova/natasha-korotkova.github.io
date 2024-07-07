@@ -235,7 +235,18 @@ li {
  margin-bottom: 0px;
 }*/
 
-/* footer*/
+/* responsive layout*/
+
+@media only screen and (max-width: 600px) {
+
+   body { 
+      font-size: 2em; 
+   }
+   
+   #content { width: 100%;}
+
+}
+
 
 #footer {
 	height:50px;
