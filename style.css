@@ -33,18 +33,19 @@ body {
 	/*border-bottom:1px dashed #373D2B;*/
 	height:85px;
 	margin:0 auto;
-	width: 40%;
-	/*width: 740px;*/
+	/*width: 40%;*/
+	width: 740px;
 }
 #header h1 {
 	color:#373D2B;
 	font-size:300%;
 	letter-spacing:-2px;
-	text-align:left;
+	text-align:center;
 	padding:5px;
 	margin-top:40px;
-	margin-bottom:-20px;
+	margin-bottom:0px;
 	font: Helvetica;
+	position: relative;
 }
 #header h2 {
 	color:#ADB59F;
@@ -71,8 +72,8 @@ body {
 	background:#fafafa;
 	/*border-bottom:1px dashed #373D2B;*/
 	margin:0 auto;
-	width: 45%;
-/*	width: 740px;*/
+	/*width: 45%;*/
+width: 780px;
 	height:55px;
     padding: 10px;
 	list-style:none;
@@ -125,7 +126,17 @@ navbar{
 }
 
 .topnav {
-  position: relative;
+  /*position: relative;*/
+  /*position: absolute;
+  top: 10%;
+  left: 33%;*/
+  position:relative;
+  margin-top:-1.25em;
+  left:15%;
+/*  margin-left:8.15em;*/
+  padding-bottom:1em;
+  z-index: 99;
+text-align: center;
   background-color: #fafafa;
   overflow: hidden;
   padding: 10px;
@@ -138,7 +149,7 @@ navbar{
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color:#444;
+  color:#7b8a75;
   text-align: center;
   align-items: center;
   display: inline-block;
@@ -150,18 +161,12 @@ navbar{
   margin-right: 20px;
 }
 
-.topnav-centered a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 
 /* Change the color of links on hover */
 .topnav a:hover {
 	background:#C6CCBC;
-	color:#444;
+	color:#7b8a75;
 	text-decoration: none;
 }
 
@@ -191,8 +196,8 @@ li {
 	height:auto;
 	margin:0 auto;
 	padding:0 0 20px;
-	width: 45%;
-	/*width: 740px;*/
+	/*width: 45%;*/
+	width: 740px;
 	text-align=justify;
 	line-height: 1.4;
 	}
