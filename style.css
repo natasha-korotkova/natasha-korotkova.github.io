@@ -71,19 +71,29 @@ body {
 	background:#fafafa;
 	border-bottom:1px dashed #373D2B;
 	margin:0 auto;
-	width: 40%;
+	width: 45%;
 /*	width: 740px;*/
 	height:55px;
+    padding: 10px;
 	list-style:none;
 	font: Futura;
 }
 #navigation li {
 	border-left:1px solid #fefefe;
 	float:left;
+	text-align: center;
 	width: 18%; /* Split width appropriately */
 /* old	width:143px; */
 	list-style:none;
 }
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
 #navigation a {
 	color:#444;
 	display:block;
@@ -102,14 +112,70 @@ body {
 	text-decoration: none;
 }
 
+
+/* navigation alt */
+
+navbar{
+  text-align: center;
+  justify-content: center;
+}
+
+.topnav {
+  position: relative;
+  background-color: #fafafa;
+  overflow: hidden;
+  padding: 10px;
+  width:100%;
+  justify-content: space-between;
+    align-items: center;
+  margin: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color:#444;
+  text-align: center;
+  align-items: center;
+  display: inline-block;
+   justify-content: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font: Futura;
+  margin-right: 20px;
+}
+
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background:#C6CCBC;
+	color:#444;
+	text-decoration: none;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+	background:#DBDFD5;
+	color:#444;
+	text-decoration: none;
+}
+
 /*responsive layout */
 
-@media screen and (max-width: 460px) {
-    li {
-        width: 100% !important;
-        float:none !important;
-    }
-}
+/* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
+/*@media screen and (max-width: 600px) {
+  .topnav a, .topnav-right {
+    float: none;
+    display: block;
+  }*/
 
 
 /* ordered list */
@@ -129,7 +195,7 @@ li {
 	height:auto;
 	margin:0 auto;
 	padding:0 0 20px;
-	width: 40%;
+	width: 45%;
 	/*width: 740px;*/
 	text-align=justify;
 	line-height: 1.4;
