@@ -81,7 +81,6 @@ body {
   margin: auto;
 }
 #navigation li {
-	border-left:1px solid #fefefe;
 	float:left;
 	text-align: center;
 	width: 18%; /* Split width appropriately */
@@ -99,7 +98,6 @@ body {
 
 #navigation a {
 	color:#444;
-	display:inline-block;
 	line-height:50px;
 	text-align:center;
 	text-decoration: none;
@@ -119,7 +117,7 @@ body {
 }
 
 
-/* navigation alt */
+/* navigation new */
 
 navbar{
   text-align: center;
@@ -147,7 +145,7 @@ navbar{
    justify-content: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 120%;
   font: Futura;
   margin-right: 20px;
 }
@@ -175,14 +173,6 @@ navbar{
 }
 
 /*responsive layout */
-
-/* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
-/*@media screen and (max-width: 600px) {
-  .topnav a, .topnav-right {
-    float: none;
-    display: block;
-  }*/
-
 
 /* ordered list */
 
