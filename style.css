@@ -40,7 +40,7 @@ body {
 	color:#373D2B;
 	font-size:300%;
 	letter-spacing:-2px;
-	text-align:center;
+	text-align: center;
 	padding:5px;
 	margin-top:40px;
 	margin-bottom:0px;
@@ -166,7 +166,7 @@ text-align: center;
 /* Change the color of links on hover */
 .topnav a:hover {
 	background:#C6CCBC;
-	color:#7b8a75;
+	color:#7b8a75; 
 	text-decoration: none;
 }
 
