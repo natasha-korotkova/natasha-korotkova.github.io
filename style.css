@@ -240,10 +240,14 @@ li {
 @media only screen and (max-width: 600px) {
 
    body { 
-      font-size: 2em; 
+      font-size: 0.8 em; 
    }
    
-   #content { width: 100%;}
+   #content { width: 100%; padding:20px;}
+   #content summary {font-size: 0.8 em;}
+   #content h1 {font-size: 0.8 em;}
+
+#header h1 {font-size: 1 em;}
 
 }
 
