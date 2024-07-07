@@ -30,7 +30,7 @@ body {
 /* header*/
 
 #header {
-	border-bottom:1px dashed #373D2B;
+	/*border-bottom:1px dashed #373D2B;*/
 	height:85px;
 	margin:0 auto;
 	width: 40%;
@@ -69,7 +69,7 @@ body {
 
 #navigation {
 	background:#fafafa;
-	border-bottom:1px dashed #373D2B;
+	/*border-bottom:1px dashed #373D2B;*/
 	margin:0 auto;
 	width: 45%;
 /*	width: 740px;*/
@@ -77,6 +77,8 @@ body {
     padding: 10px;
 	list-style:none;
 	font: Futura;
+  overflow: hidden;	
+  margin: auto;
 }
 #navigation li {
 	border-left:1px solid #fefefe;
@@ -91,15 +93,19 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+      display: inline-block;
 }
 
 
 #navigation a {
 	color:#444;
-	display:block;
+	display:inline-block;
 	line-height:50px;
 	text-align:center;
 	text-decoration: none;
+	font: Futura;
+	margin-right: 30px;
+	float: left; 
 }
 #navigation a:hover {
 	background:#C6CCBC;
