@@ -1,8 +1,0 @@
-In this talk, I investigate a number of unaccusativity diagnostics
-(there-insertion, locative insertion, post-verbal nominatives) that
-across languages seem to be sensitive to the type of verb involved.
-Specifically, only a subset of unaccusatives is licit in these
-environments, namely /verbs of existence or appearance/, but not /verbs
-of change of state/. I argue that this behavior reflects a syntactic
-difference between the two verb classes and I discuss its implications
-for the unaccusativity hypothesis. 
