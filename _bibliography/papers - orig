@@ -151,8 +151,6 @@ address = {Chicago, IL},
 year={2019},
 }		
 	
-
-	
 	*
 
 @Article{korotkova2020-snippets,
@@ -237,7 +235,6 @@ Abstract: Subjective language has attracted substantial attention in the recent 
   doi        = {10.18148/sub/2023.v27.1065},
 }
 
-
 Abstract: This paper is about what we call Deontically-flavored Nominal Constructions (DNCs) in English, such as No ice cream or Dogs on leash only. DNCs are often perceived as commands and have been argued to be a type of non-canonical imperative, much like root infinitives in German or Russian. We argue instead that DNCs at their core are declaratives that cite a rule but can be used performatively in the right context. We propose that DNCs contain an elided deontic modal, i.e., allowed, whose presence explains their distributional restrictions and interpretational properties. Among other things, we speculate on the licensing conditions of DNCs (the presence of only or the negative determiner no), suggesting that these are tied to the properties of discourses in which rules can be used naturally.
 
 *
@@ -306,7 +303,7 @@ Abstract: While there has been much research on the typology of speech reports, 
   booktitle = {The Oxford Handbook of Noncanonical Questions},
   publisher = {Oxford University Press},
   title     = {A novel perspective on negative bias in polar questions: {The} view from {Russian}},
-  year      = {2026},
+  year      = {Forthcoming},
   address   = {Oxford},
   editor    = {Eckardt, Regine and Deh\'{e}, Nicole and Walkden, George},
 }
@@ -316,7 +313,6 @@ Abstract: In contrast to well-researched wh-questions, the semantics and pragmat
 
 *
 
-
 @Unpublished{korotkova2025-evi,
   author = {Korotkova, Natasha},
   note   = {Submitted to: Arregui, A., V. Hacquard and M. Ippolito (Eds.), \emph{The Cambirdge Handbook of Modality}},
@@ -324,6 +320,5 @@ Abstract: In contrast to well-researched wh-questions, the semantics and pragmat
   year   = {2025},
   url    = {https://ling.auf.net/lingbuzz/009373},
 }
-
 
 Abstract: This paper is a focused investigation of analytical options proposed for evidentiality in recent formal literature (world-based, commitment-based, event-based) as well as the empirical motivation behind those options. Much work has been devoted to the ontological relationship between evidentiality and modality, and the paper pays special attention to the types of data that motivate the analysis of evidentials as intensional operators. My ultimate goal is to scrutinize the dialectic. While various arguments have been used to adjudicate between the existing theories, I (i) highlight that many of these arguments don’t in fact settle the debate, and (ii) bring to the fore new types of diagnostics that might, if applied consistently. My hope is for the reader to emerge with a better understanding of evidentiality as a semantic category—and with many directions for future work, if they are so inclined.
