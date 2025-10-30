@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -32,4 +32,4 @@ My research program centers on knowledge and belief: (i) the many means language
 
 I am also a [photographer](https://www.flickr.com/photos/57449897@N07/) and an outdoor addict.
 
-Contact me: ![](email.png)
+Contact me: n dot last name at ucla dot edu
