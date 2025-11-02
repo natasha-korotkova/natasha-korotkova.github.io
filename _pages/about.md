@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: # leave blank to include all the news in the `_news` folder
 
@@ -33,3 +33,16 @@ My research program centers on knowledge and belief: (i) the many means language
 I am also a [photographer](https://www.flickr.com/photos/57449897@N07/) and an outdoor addict.
 
 Contact me: n dot last name at ucla dot edu
+
+## News
+
+* May 2026. TBA. Keynote talk at [Philosophy in Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
+* November 2025. Refining find: Facitivity, experience, categorical judgment. Invited talk at the workshop ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
+* November 2025. Today we learned: English 'come-to-know' predicates. Invited talk at a joint session of the [Valence Asymmetries](https://www.upf.edu/web/valence-asymmetries) Seminar Series and the [GLiF Formal Linguistics Research Group](https://www.upf.edu/web/glif) Seminar, University Pompeu Fabra, Spain. (joint work w/ Pranav Anand)
+* November 2025. I am starting an NWO XS project ["The grammar of opinion"](https://www.nwo.nl/en/projects/abzva90286).
+*   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
+*   July 2025. New manuscript: "The notional category of evidentiality". Submitted to: Arregui, A., V. Hacquard, and M. Ippolito, _The Cambirdge Handbook of Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
+*   May 2025. New paper: "Nothing to claim: Claim reports and non-endorsement". [A Festschrift in Honour of Regine Eckardt](https://edoc.hu-berlin.de/collections/042ccad3-b1a0-4b2a-951b-77ffa528e9d7). (w/ Pranav Anand) [\[paper\]](https://edoc.hu-berlin.de/items/bac101f3-17e8-440d-a630-0e74e1892d76)
+*   February 2025. "Re-imagining question bias". Invited talk at [the 25th Szklarska Poręba Workshop on the Roots of Pragmasemantics](https://sites.google.com/view/25th-szklarska-poreba-workshop/), Szklarska Poręba, Poland.
+*   January 2025. "Question bias, private beliefs and common knowledge". Invited talk at the workshop ["Background beliefs in the construction of meaning"](https://asya-achimova.github.io/workshop/), University of Tübingen, Germany.
+*   December 2024. New paper: "Facts, intentions, questions: English 'come-to-know' predicates in deliberative environments". Proceedings of [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/), ILLC, University of Amsterdam, the Netherlands. (w/ Pranav Anand) [\[paper\]](https://drive.google.com/file/d/1of6ynxeG1gnHlpDc-MTs10emh7AC0M21/view)
