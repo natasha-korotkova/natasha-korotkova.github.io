@@ -1,0 +1,216 @@
+---
+layout: page
+permalink: /links/
+title: links
+nav: true
+nav_order: 7
+---
+
+<details><summary>mailing lists</summary>
+
+    
+        <LI><a href="https://linguistlist.org/" target="_blank">LinguistList</a>: all things linguistics</LI>
+        <LI><a href="https://www.liverpool.ac.uk/philosophy/philos-l/" target="_blank">Liverpool Philosophy</a>: all things philosophy</LI>
+        <LI><a href="https://www.phil-fak.uni-duesseldorf.de/asw/gfs/english/semantik.html" target="_blank">Semantik</a>: all things semantics</LI>
+        <LI><a href="http://www.folli.info/?p=142" target="_blank">FoLLI</a>: the Association for Language, Logic and Information</LI> 
+        
+    
+  <br>
+    
+</details>
+    
+    
+<details><summary>open access and open science</summary>
+        
+        The Open Access movement is gaining momentum in linguistics, its ultimate goal being to provide access to published research to everyone regardless of their institutional affiliation.
+        
+        <li><a href="https://oaling.wordpress.com/" target="_blank">OA journals in linguistics</a> (list maintained by my Konstanz colleague <a href="http://walkden.space/">George Walkden</a>)</li>
+        <li><a href="https://langsci-press.org/" target="_blank">Language Science Press</a>: OA scholarly publisching house</li>
+        <li><a href="https://www.lingoa.eu/about/mission/" target="_blank">Linguistics in OA</a>: a non-profit that facilitates OA publishing in linguistics</li>
+        <br>
+</details>
+    
+<details>
+    <summary>online repositories for papers and data</summary>
+        
+        Free online repositories promote early research dissemination.
+
+<LI><a href="http://ling.auf.net/lingbuzz" target="_blank">LingBuzz</a>: papers in linguistics</LI>
+<li><a href="http://roa.rutgers.edu/" target="_blank">Rutgers Optimality Archive</a>: work on optimality theory, mostly phonology</li>        
+<LI><a href="https://semanticsarchive.net/" target="_blank">Semantics Archive</a>: papers in semantics</LI>
+<LI><a href="https://philpapers.org/" target="_blank">PhilPapers</a>: papers in philosophy</LI>
+<li><a href="https://site.uit.no/trolling/about/" target="_blank">TROLLing</a>: The Tromsø Repository of Language and Lingustics</li>
+<li><a href="https://www.clarin-d.net/en/about/overview" target="_blank">Clarin-D</a>: infrastructure for storing and archiving linguistic data</li>
+<li><a href="https://www.cos.io/about/mission"  target="_blank">Center for Open Science</a>: organization that creates several products that facilitate data management, project workflow and research collaboration</li>      
+    <br>
+    
+</details>    
+    
+<details>
+        <summary>summer schools</summary>
+    
+     <p>Below I list some of the summer schools I have good knowledge of. The list is not exhaustive, and I'm sure there are other events! Here is a <a href="https://www.summerschoolsineurope.eu/">resource</a> that lists summer schools in Europe in a variety of fields, not limited to linguistics or philosophy. </p>   
+     
+        <LI><a href="http://www.folli.info/?page_id=45">ESSLLI</a>: European Summer School in Language, Logic and Information, courses on the interface between linguistics, logic and computation (annual, two weeks)</LI>
+        <LI><a href="https://ml-la.github.io/nasslli2022/">NASSLLI</a>: North American Summer School on Logic, Language and Information, courses in logic, linguistics, computer science, cognitive science, and philosophy (biannual, one week)</LI>
+        <LI><a href="https://www.linguisticsociety.org/content/lsas-linguistic-institutes">LSA's summer institute</a>: all core areas of linguistics, ranging from introductory to advanced (biannual, one month)</LI>
+        <LI><a href="https://linguistics.philology.uoc.gr/">Creteling: Crete Summer School of Linguistics</a> all core areas of linguistics (annual)</LI>
+        <LI><a href="https://conferences.uoa.gr/event/61/">Naxos Summer School on Diachronic Linguistics</a> (annual)</LI>
+        <LI><a href="http://www.nyi.spb.ru/">NYI</a>: The New York&#8212;Saint Petersburg Institute of Linguistics, Cognition and Culture (annual; recent editions held online)</LI>
+        <LI><a href="http://www.eggschool.org/">EGG</a>: the Eastern Generative Grammar summer school (annual, two weeks)</LI>
+     <LI><a href="https://lotschool.nl/summer-winter-schools/">LOT</a> summer and winter schools: organized by the Netherlands Graduate School in Linguistics, hosted on rotating basis in the Netherlands and Flanders (twice per year, two weeks)</LI>     
+        <LI><a href="https://summeruniversity.ceu.edu/">Central European University's Summer University</a>: a series of intensive classes in social sciences and humanities, including philosophy (Budapest, annual)</LI>
+        <LI><a href="https://www.mathsummer.philosophie.uni-muenchen.de/index.html">Summer School on Mathematical Philosophy for Female Students</a>: Munich Center for Mathematical Philosophy (annual)</LI>
+        <LI><a href="https://hamburgersommerkurs.wordpress.com/">Hamburg Summer School in Philosophy</a> (annual, one week)</LI>
+        <LI><a href="http://cssip.uni-koeln.de/36363.html?&L=1">Cologne Summer School in Philosophy</a> (annual, one week)</LI>
+     <li><a href="https://sites.google.com/view/yalp2017/yalp-2024?authuser=0">YALP</a>: Yerevan Academy in Linguistics and Philosophy<li>
+
+        
+        <br>
+</details>
+    
+    
+<details><summary>general resources</summary>
+
+<LI><a href="http://lambdacalculator.com/" target="_blank">Is this a good time for formal semantics?</a> (a short video interview with Barbara Partee)</LI>
+    <li><a href="https://web.stanford.edu/class/linguist130a/2022/">Introduction to Semantics and Pragmatics</a>: online class by Chris Potts, including readings, assignments and YouTube videos</li>
+ <LI><a href="https://staff.fnwi.uva.nl/f.j.m.m.veltman/classics.html" target="_blank">40 classic readings in formal semantics and pragmatics</a> (by Frank Veltman)</LI>      
+<LI><a href="http://lambdacalculator.com/" target="_blank">Lambda calculator</a>: a tool to practice derivations in lambda calculus </LI>
+    <LI><a href="https://lab.florianschwarz.net/PennController/" target="_blank">PennController</a>: a toolkit for online collection of experimental data in linguistics (and not only)</LI>
+<!-- <LI><a href="http://linguistics.oxfordre.com/" target="_blank">Oxford Research Encyclopedia of Linguistics</a> (subscription-based)</LI> -->
+<LI><a href="http://plato.stanford.edu/" target="_blank">Stanford Encyclopedia of Philosophy</a>: a classic starting point for any inquiries about philosophical matters</LI>
+    <!-- <LI><a href="http://www.institutnicod.org/audio-video/cycles-de-conferences-397/john-perry-951/?lang=en" target="_blank">Context and Reference</a> (video of John Perry's lecture series at Institut Jean-Nicod, Paris)
+    </LI>
+    <LI><a href="https://xphiblog.com/sample-page/">blog</a> on experimental philosophy</LI>-->
+
+   <br> 
+    
+</details>
+    
+    
+
+
+    
+    
+
+  
+    
+    
+
+<details><summary>cross-linguistic resources and tools</summary>
+    
+    
+    <LI><a href="https://www.ethnologue.com/" target="_blank">Ethnologue</a>: comprehensive information about each language and language family</LI>
+    <LI><a href="http://ewave-atlas.org/" target="_blank">EWAVE</a>: the Electronic World Atlas of the Varieties of English</LI>
+<LI><a href="http://sswl.railsplayground.net/" target="_blank">SSWL</a>: Syntactic Structures of the World's languages database, gathered from work with native speakers</LI>
+<LI><a href="https://wals.info/" target="_blank">WALS</a>: the World Atlas of Language Structures, gathered from descriptive materials</LI>
+<LI><a href="https://www.mapsofworld.com/" target="_blank">Maps</a></LI>
+        <li><a href="https://www.eva.mpg.de/lingua/tools-at-lingboard/"  target="_blank">Tools for fieldwork</a>: a collection of resources for linguistic fieldwork, inlcuding <a href="https://www.eva.mpg.de/lingua/tools-at-lingboard/questionnaires.php"  target="_blank">questionnaires</a>, <a href="https://www.eva.mpg.de/lingua/tools-at-lingboard/stimulus_kits.php"  target="_blank">storyboards</a> and <a href="https://www.eva.mpg.de/lingua/resources/glossing-rules.php" target="_blank">glossing rules</a></li>        
+    <LI><a href="http://www.linguistic-typology.org/resources.html"   target="_blank">other typological databases and resources</a>, including freely available grammars</LI>
+        <li><a href="https://afranaphproject.afranaphdatabase.com/home-mainmenu-1"   target="_blank">The Aphranaph project</a>: an online resource for resource on African languages, initially on anaphora</li>
+    <br>
+</details>
+
+    
+   
+<details><summary>podcasts</summary>
+        
+        <li><a href="https://lingthusiasm.com/" target="_blank">Lingthusiasm</a>: all things lingustics, for everyone</li>
+     <li><a href="https://www.accentricity-podcast.com/">Accentricity</a>: issues related to language and identity</li>
+     <li><a href="https://vocalfriespod.fireside.fm/">The Vocal Fries</a>: linguistic discrimination</li>
+     <li><a href="https://www.theallusionist.org/">The Allusionist</a>: English language, lexicon, etymology; check out this <a href="https://www.theguardian.com/culture/2015/sep/10/the-allusionist-podcast-helen-zaltzman-words-english">review</a> on the Guardian
+        <li><a href="http://www.philosophybites.com/"  target="_blank">Philosophy Bites</a>: all things philosophy, mostly for an academic listener</li>
+        <li><a href="https://stkirchin.podbean.com/"  target="_blank">Philosophy takes on the news</a></li>
+        <li><a href="https://www.philosophy2u.com/public-philosophy">Public Philosophy</a>: the series intended to engage a wider audience beyond academia</li>
+        <li><a href="https://dailynous.com/2020/11/23/big-list-philosophy-podcasts/">100+ list</a> of philsoophy-themed podcasts from Daily Nous</li>
+        <br>
+        
+</details>
+    
+    
+<details>   
+<summary>for non-specialists</summary>
+     
+      
+<li><a href="https://www.linguisticsociety.org/what-linguistics"  target="_blank">What is linguistics</a>: from the Linguistic Society of America</li>
+<li><a href="https://www.coursera.org/learn/human-language"  target="_blank">Miracles of Human Language</a>: a free online introduction to linguistics (Coursera also offers an optional certificate for a fee, but the class is free otherwise)</li>
+     <li>Gretchen McCulloch <a href="https://gretchenmcculloch.com/book/">"Because Internet"</a>: a popular book about how the language is changing (<a href="https://www.nytimes.com/2019/07/22/books/review-because-internet-understanding-new-rules-language-gretchen-mcculloch.html">a review on the New York Times</a>)</li>
+    <li> <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/02/07/unlike-all-previous-u-s-presidents-trump-almost-never-mentions-democratic-ideals/?utm_term=.cfa542aea5d5"  target="_blank">What Trump's speech may reveal about his democratic committments</a>  (Washington Post)</li>
+<li><a href="http://mentalfloss.com/article/13107/7-things-you-should-know-about-sign-language" target="_blank">7 things you should know about sign language</a> (Mental Floss)</li>
+     <li><a href="https://www.theatlantic.com/education/archive/2018/01/why-do-cartoon-villains-speak-in-foreign-accents/549527/"  target="_blank">Why do cartoon villains speak in foreign accents?</a> (The Atlantic)</li>
+     <li><a href="http://www.pbs.org/speak/" target="_blank">Do you speak American?</a>: Public Broadcasting Service on various linguistic issues, such as stereotypes associated with language in their <a href="http://www.pbs.org/speak/speech/prestige/articles/">prestige & predjudice</a> articles, where they debunk myths about <a href="http://www.pbs.org/speak/speech/prejudice/women/">women's speech</a> or <a href="http://www.pbs.org/speak/speech/correct/gatekeeping/">bad language</a></li>
+     
+     <li><a href="https://www.newstatesman.com/2019/02/agora-market-place-ideas">Agora: a market place of ideas</a>; the New Statesman's philosophy column</li>
+     <li><a href="https://slate.com/human-interest/2016/07/all-lives-matter-versus-black-lives-matter-how-does-the-philosophy-of-language-shed-light-on-the-disagreement.html">Black Lives Matter</a>: a philosophy of language take on the slogan (Slate)</li>
+     <li>a collection of <a href="http://dailynous.com/value-of-philosophy/essays-and-lists/">essays</a> on the value of philosophy (Daily Nous)</li>
+     <!--<li><a href="http://dailynous.com/2015/11/13/philosophys-public-relations-moment-were-we-ready/">Philosophy's public relations moment</a>: links and discussion </li>
+<li><a href="https://opinionator.blogs.nytimes.com/2016/03/07/philosophys-true-home/"  target="_blank">Philosophy's true home</a> (The New York Times)</li>
+<li><a href="http://www.post-gazette.com/opinion/Op-Ed/2015/11/16/Welders-vs-philosophers-We-need-them-both-but-philosophers-take-more-grief/stories/201511160011"  target="_blank">Welders vs. philosophers: we need them both but philosophers take more grief</a> (Pittsburgh Post-Gezette)</li>-->
+     <li>Ian Olasov <a href="https://us.macmillan.com/books/9781250756183">"Ask a philosopher"</a>: a popular book on philosophical underpinnings of even the most mundane questions</li>
+<li><a href="https://www.wiley.com/en-us/Philosophy+Matters%3A+An+Introduction+to+Philosophy-p-9780631225461"  target="_blank">Philosophy Matters</a>: a popular introduction, book-long</li>
+
+<!--<a href="https://www.scientificamerican.com/article/how-to-be-awesome/">How to be awesome</a> (Scientific American)-->
+
+     <br>
+</details>     
+
+    
+    
+<details>
+<summary>bias (gender and otherwise) </summary>
+        
+            
+        <!--<p>Gender bias in academia is alive and well: one example, another example and <a href="https://www.washingtonpost.com/blogs/monkey-cage/files/2013/10/Gender-Gap-Articles.pdf?noredirect=on">a comprehensive report on the gender gap</a>.</p>-->
+        
+        
+        <li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography/" target="_blank">An annotated bibliography</a> on gender bias in academia</li>
+        <LI><a href="https://www.linguisticsociety.org/about/who-we-are/committees/status-women-linguistics/selected-projects" target="_blank">LSA's committee</a> on the status of women in linguistics</LI>
+        <LI><a href="http://www.trees-and-lambdas.info/matushansky/gender.html" target="_blank">Gender distribution</a> in linguistic subfields, journals, job searches (maintained by Ora Matushansky)</LI>
+        <LI><a href="https://biasinlinguistics.org/" target="_blank">Bias in linguistics</a></LI>
+        <LI><a href="https://www.philosophy.rutgers.edu/climate-v2/climate-issues-in-academic-philosophy/climate-issues-academic-philosophy-further-information"  target="_blank">Resources</a> for, and about, women in philosophy (why <a href="https://opinionator.blogs.nytimes.com/2013/09/02/women-in-philosophy-do-the-math/">so few</a>, for example)</LI>
+    
+        
+        <br>
+</details>
+             
+  
+  
+  
+<!-- 
+<details><summary>personal</summary>
+
+    
+    
+<p>There is a tendency in academia to pigeonhole people as having just one identity, which is wrong on many levels. Besides being a linguist, I am also a photographer and an outdoor addict, as the footage below shows. I love human-propelled travel in many forms, ideally <a href="https://flic.kr/p/RhP3oL" target="_blank">in the Alps</a> or <a href="https://www.flickr.com/gp/57449897@N07/73Q22s" target=_"blank">out West</a>.</p>
+    
+   
+
+
+
+    <LI><a href="https://flic.kr/s/aHsmnoBGrJ" target="_blank">the Alps</a></LI>
+    <LI><a href="https://flic.kr/s/aHskHKTm1q" target="_blank">Oregon and Washington</a></LI>
+    <LI><a href="https://flic.kr/s/aHskHLvFSN" target="_blank">Colorado</a></LI>
+    <LI><a href="https://www.flickr.com/photos/57449897@N07/sets/72157682057554705"  target="_blank" target="_blank">Yosemite</a></LI>
+    <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713832682577"  target="_blank" target="_blank">Alaska</a></li>
+    <LI><a href="https://flic.kr/s/aHskmoFR3u" target="_blank">non-mountains</a></LI>
+    <LI><a href="https://animoto.com/play/xQICVhfeA1oEYLRk0cZ28A" target="_blank">a photo-tribute</a> to UCLA, my grad school alma mater</LI>
+    <LI><a href="https://www.flickr.com/photos/57449897@N07/sets/72157633483152597/" target="_blank">portraits</a></LI>
+    <LI><a href="https://flic.kr/s/aHskhY5LJz" target="_blank">self-portraits</a></LI>
+    <br>
+</details>-->
+    
+    
+<details>
+    <summary>lightweight backpacking</summary>
+    
+        <p>I love human-propelled travel in all forms, but long-distance hiking is my absolute passion. Here are some resources that can get one started and hopefully help to avoid some newbie mistakes: gear lists, recommendations, how-to's, trip reports and the general philosophy of being safe in the outdoors with less. If you've never backpacked, start <a href="https://andrewskurka.com/beginner-first-time-backpackers-advice-info-tips-resources/">here</a>. Happy trails!</p>
+
+<LI><a href="https://backpackinglight.com/" target="_blank">BackpackingLight</a></LI>
+    <LI><a href="http://www.adventurealan.com/" target="_blank">Alan Dixon</a></LI>
+        <li><a href="https://ladyonarock.com/">Christy Rosander</a></li>
+<LI><a href="https://www.walkingwithwired.com/" target="_blank">Erin "Wired" Saver</a></LI>
+    <LI><a href="https://andrewskurka.com/" target="_blank">Andrew Skurka</a></LI>
+<LI><a href="https://sectionhiker.com/" target="_blank">Philip Werner</a></LI>
+
+<br>
+</details>    

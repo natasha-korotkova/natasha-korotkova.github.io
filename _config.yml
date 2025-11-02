@@ -273,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Korotkova]
-  first_name: [Natalia]
+  first_name: [Natasha]
 
   style: apa
   locale: en
@@ -295,6 +295,8 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
+  # group_by: category, year
+  # group_order: ascending, descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

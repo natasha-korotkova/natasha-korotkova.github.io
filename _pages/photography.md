@@ -89,7 +89,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
 <details>
             
             <summary>faces</summary>
-                <li><a href="https://www.flickr.com/gp/57449897@N07/143mmSLs7u">others</a></li>
+                <li><a href="https://www.flickr.com/gp/nkorotkova/2CKu8TaE4w">others</a></li>
       <li><a href="https://www.flickr.com/gp/57449897@N07/R6622e3691">self</a></li>
 </details>
     
