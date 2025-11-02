@@ -3,7 +3,7 @@ layout: teaching_project
 title: WeSSLI 2020
 description: "The notional category of evidentiality"
 link: "https://www.brandeis.edu/nasslli2020/"
-img: lake-pics/lake-wesslli.jpg
+img: /assets/img/lake-pics/lake-wesslli.jpg
 importance: 1
 year: 2020
 category: work

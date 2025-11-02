@@ -3,7 +3,7 @@ layout: teaching_project
 title: NASSLLI 2022
 description: "Futurity, evidentiality, and modality: Cross-disciplinary perspectives (w/ Fabrizio Cariani)"
 link: "https://ml-la.github.io/nasslli2022/"
-img: lake-pics/lake-nasslli2022.jpg
+img: /assets/img/lake-pics/lake-nasslli2022.jpg
 importance: 1
 year: 2022
 category: work

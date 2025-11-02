@@ -11,7 +11,7 @@ layout: default
 <div class="post">
   <header class="post-header">
   {% if page.img %}
-          {% assign lake_image_path = page.img | prepend: 'assets/img/' %}
+          {% assign lake_image_path = page.img %}
           
           {%
             include figure.liquid loading="eager" path=lake_image_path class='img-fluid z-depth-1
