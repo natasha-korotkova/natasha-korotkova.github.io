@@ -52,7 +52,7 @@ Additionally, I strongly believe in cross-fertilization across disciplinary boun
 
 <!-- Display teaching without categories -->
 
-{% assign sorted_teaching = site.teaching | sort: "importance" %}
+{% assign sorted_teaching = site.teaching | sort: "year" | reverse %}
 
   <!-- Generate cards for each project -->
 

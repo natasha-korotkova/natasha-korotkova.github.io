@@ -1,14 +1,13 @@
 ---
-layout: page
+layout: teaching_project
 title: ESSLLI 2021
-description: An opinionated guide to the language of opinion
+description: An opinionated guide to the language of opinion (w/ Pranav Anand)
+link: "https://esslli2021.unibz.it/"
 img: 
 importance: 1
 year: 2021
 category: work
 ---
-
-[ESSLLI 2021](https://esslli2021.unibz.it/) "An opinionated guide to the language of opinion" (w/ Pranav Anand)
 
 Subjective language has attracted substantial attention in the recent literature in formal semantics and philosophy of language. Most current theories argue that Subjective Predicates (SPs; "fun", "tasty", "beautiful", etc), which express matters of opinion, semantically differ from Ordinary Predicates (OPs; "round", "popular", "fermented", etc), which express matters of fact. We will call this view “SP exceptionalism”. This class is a focused examination of SP exceptionalism, the empirical motivation behind this view and various theoretical ways to implement it.
 
@@ -24,10 +23,10 @@ Day 4 is dedicated to the Acquaintance Inference (AI), a firsthand experience re
 
 Day 5 examines the so-called subjective attitudes, English verbs "find" and "consider", and their counterparts in other languages. Those verbs, which we will refer to as find-verbs, have been argued to only take complements that talk about matters of opinion, rather than fact, and thus can serve as one of the best diagnostics of subjectivity in language. We will talk about the types of complements find-verbs can take and argue that they come with an evidential requirement of their own, a fact that has to be taken into account in their semantics.
 
-Slides: (list)
+Slides:
 
-Day 1: Introduction and empirical landscape [summerschools/2021esslli/esslli32-day1.pdf]
-Day 2: Theoretical landscape [summerschools/2021esslli/esslli32-day2.pdf]
-Day 3: Attitudes and judge-free frameworks [summerschools/2021esslli/esslli32-day3.pdf]
-Day 4: The acquaintance inference [summerschools/2021esslli/esslli32-day4.pdf]
-Day 5: Subjective attitudes and wrap-up [summerschools/2021esslli/esslli32-day5.pdf]
+* Day 1: [Introduction and empirical landscape](/summerschools/2021esslli/esslli32-day1.pdf){:target="_blank"}
+* Day 2: [Theoretical landscape](/summerschools/2021esslli/esslli32-day2.pdf){:target="_blank"}
+* Day 3: [Attitudes and judge-free frameworks](/summerschools/2021esslli/esslli32-day3.pdf){:target="_blank"}
+* Day 4: [The acquaintance inference](/summerschools/2021esslli/esslli32-day4.pdf){:target="_blank"}
+* Day 5: [Subjective attitudes and wrap-up](/summerschools/2021esslli/esslli32-day5.pdf){:target="_blank"}
