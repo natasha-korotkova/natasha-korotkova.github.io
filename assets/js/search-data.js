@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -460,6 +460,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-esslli-2021",
+          title: 'ESSLLI 2021',
+          description: "An opinionated guide to the language of opinion",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/ESSLLI2021/";
+            },},{id: "teaching-nasslli-2022",
+          title: 'NASSLLI 2022',
+          description: "Futurity, evidentiality, and modality. Cross-disciplinary perspectives",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/NASSLLI2022/";
             },},{
         id: 'social-email',
         title: 'email',
