@@ -5,6 +5,7 @@ title: teaching
 description: 
 nav: true
 nav_order: 4
+lake_pic: lake-pics/lake-teaching.jpg
 ---
 
 I have extensive teaching experience with courses of different levels (BA/BSc; MA; PhD) aimed at diverse student populations (linguistics, philosophy, language education, general education classes). Currently I teach  at the University College Utrecht, a liberal arts & sciences college of at Utrecht University, where I direct the study program in linguistics and offer courses on language, logic and argumentation:

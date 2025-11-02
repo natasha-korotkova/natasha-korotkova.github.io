@@ -4,6 +4,7 @@ permalink: /links/
 title: links
 nav: true
 nav_order: 7
+lake_pic: lake-pics/lake-links.jpg
 ---
 
 <details><summary>mailing lists</summary>

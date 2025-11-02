@@ -3,7 +3,7 @@ layout: teaching_project
 title: NASSLLI 2018
 description: "An opinionated guide to predicates of personal taste (w/ Pranav Anand)"
 link: "https://www.cmu.edu/nasslli2018/"
-img: 
+img: lake-pics/lake-nasslli2018.jpg
 importance: 1
 year: 2018
 category: work

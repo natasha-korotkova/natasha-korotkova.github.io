@@ -4,6 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
+lake_pic: lake-pics/lake-cv.jpg
 ---
 
 <a href="/assets/pdf/nkorotkova-cv.pdf" download>Click here to download CV as a pdf.</a>

@@ -5,6 +5,7 @@ title: publications
 description: Please get in touch if you don't have access to any of those.
 nav: true
 nav_order: 2
+lake_pic: lake-pics/lake-pubs.jpg
 ---
 
 <!-- _pages/publications.md -->

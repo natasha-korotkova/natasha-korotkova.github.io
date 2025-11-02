@@ -3,7 +3,7 @@ layout: teaching_project
 title: ESSLLI 2019
 description: Speech reports (based on joint work w/ Pranav Anand)
 link: "https://elex.is/esslli2019/"
-img: 
+img: lake-pics/lake-esslli2019.jpg
 importance: 1
 year: 2019
 category: work

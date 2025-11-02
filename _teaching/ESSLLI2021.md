@@ -3,7 +3,7 @@ layout: teaching_project
 title: ESSLLI 2021
 description: An opinionated guide to the language of opinion (w/ Pranav Anand)
 link: "https://esslli2021.unibz.it/"
-img: 
+img: lake-pics/lake-esslli2021.jpg
 importance: 1
 year: 2021
 category: work

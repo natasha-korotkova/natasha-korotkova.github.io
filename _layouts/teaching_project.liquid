@@ -10,6 +10,16 @@ layout: default
 
 <div class="post">
   <header class="post-header">
+  {% if page.img %}
+          {% assign lake_image_path = page.img | prepend: 'assets/img/' %}
+          
+          {%
+            include figure.liquid loading="eager" path=lake_image_path class='img-fluid z-depth-1
+      rounded' sizes=95vw
+            cache_bust=true
+          %}
+        
+    {% endif %}
     <h1 class="post-title">
   {% if page.link %}
     <a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.title }}</a>

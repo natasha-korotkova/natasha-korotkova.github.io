@@ -4,6 +4,7 @@ permalink: /photography/
 title: photography
 nav: true
 nav_order: 6
+lake_pic: lake-pics/lake-photo.jpg
 ---
 
 Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under the [Creative Commons License](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name).
