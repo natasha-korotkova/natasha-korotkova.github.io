@@ -460,16 +460,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-esslli-2019",
+          title: 'ESSLLI 2019',
+          description: "Speech reports (based on joint work w/ Pranav Anand)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/ESSLLI2019/";
             },},{id: "teaching-esslli-2021",
           title: 'ESSLLI 2021',
-          description: "An opinionated guide to the language of opinion",
+          description: "An opinionated guide to the language of opinion (w/ Pranav Anand)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ESSLLI2021/";
+            },},{id: "teaching-nasslli-2018",
+          title: 'NASSLLI 2018',
+          description: "An opinionated guide to predicates of personal taste (w/ Pranav Anand)",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/NASSLLI2018/";
             },},{id: "teaching-nasslli-2022",
           title: 'NASSLLI 2022',
-          description: "Futurity, evidentiality, and modality. Cross-disciplinary perspectives",
+          description: "Futurity, evidentiality, and modality: Cross-disciplinary perspectives (w/ Fabrizio Cariani)",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/NASSLLI2022/";
+            },},{id: "teaching-wessli-2020",
+          title: 'WeSSLI 2020',
+          description: "The notional category of evidentiality",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/WeSSLI2020/";
             },},{
         id: 'social-email',
         title: 'email',
