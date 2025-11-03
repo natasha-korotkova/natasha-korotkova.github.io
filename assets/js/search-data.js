@@ -462,22 +462,22 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teaching-esslli-2019",
           title: 'ESSLLI 2019',
-          description: "Speech reports (based on joint work w/ Pranav Anand)",
+          description: "Speech reports",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ESSLLI2019/";
             },},{id: "teaching-esslli-2021",
           title: 'ESSLLI 2021',
-          description: "An opinionated guide to the language of opinion (w/ Pranav Anand)",
+          description: "An opinionated guide to the language of opinion",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ESSLLI2021/";
             },},{id: "teaching-nasslli-2018",
           title: 'NASSLLI 2018',
-          description: "An opinionated guide to predicates of personal taste (w/ Pranav Anand)",
+          description: "An opinionated guide to predicates of personal taste",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/NASSLLI2018/";
             },},{id: "teaching-nasslli-2022",
           title: 'NASSLLI 2022',
-          description: "Futurity, evidentiality, and modality: Cross-disciplinary perspectives (w/ Fabrizio Cariani)",
+          description: "Futurity, evidentiality, and modality: Cross-disciplinary perspectives",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/NASSLLI2022/";
             },},{id: "teaching-wessli-2020",
