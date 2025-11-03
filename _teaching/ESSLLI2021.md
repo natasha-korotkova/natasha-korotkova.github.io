@@ -1,13 +1,15 @@
 ---
 layout: teaching_project
 title: ESSLLI 2021
-description: An opinionated guide to the language of opinion (w/ Pranav Anand)
+description: An opinionated guide to the language of opinion
 link: "https://esslli2021.unibz.it/"
 img: /assets/img/lake-pics/lake-esslli2021.jpg
 importance: 1
 year: 2021
 category: work
 ---
+
+(w/ Pranav Anand)
 
 Subjective language has attracted substantial attention in the recent literature in formal semantics and philosophy of language. Most current theories argue that Subjective Predicates (SPs; "fun", "tasty", "beautiful", etc), which express matters of opinion, semantically differ from Ordinary Predicates (OPs; "round", "popular", "fermented", etc), which express matters of fact. We will call this view “SP exceptionalism”. This class is a focused examination of SP exceptionalism, the empirical motivation behind this view and various theoretical ways to implement it.
 

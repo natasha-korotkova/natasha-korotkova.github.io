@@ -7,7 +7,7 @@ nav_order: 6
 lake_pic: lake-pics/lake-photo.jpg
 ---
 
-Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under the [Creative Commons License](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name).
+Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under a [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name).
 <details>
         
   <summary>conferences</summary>
@@ -37,6 +37,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
   <li><a href="https://www.flickr.com/gp/57449897@N07/rW80m6W928">St. Maarten parade</a>, Utrecht, Netherlands</li>
   <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72177720297233746/">Peace rally</a>, Stuttgart, Germany</li>
   <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713426692871/">8th of March demonstration</a>, Barcelona, Spain</li>
+  <li><a href="https://flic.kr/s/aHBqjCkUMC">Wien Pride</a>, Austria</li>
   <br>
 </details>
          

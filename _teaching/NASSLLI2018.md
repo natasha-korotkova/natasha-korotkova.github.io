@@ -1,13 +1,15 @@
 ---
 layout: teaching_project
 title: NASSLLI 2018
-description: "An opinionated guide to predicates of personal taste (w/ Pranav Anand)"
+description: An opinionated guide to predicates of personal taste
 link: "https://www.cmu.edu/nasslli2018/"
 img: /assets/img/lake-pics/lake-nasslli2018.jpg
 importance: 1
 year: 2018
 category: work
 ---
+
+(w/ Pranav Anand)
 
 This course is a focused examination of predicates of personal taste (PPTs) such as "tasty" and "fun"—the empirical discoveries, the theoretical landscape, their connection with subjective language. Recent work in formal semantics and philosophy of language has shown that the linguistic behavior of PPTs differs from that of other predicates (OPs) such as "round" and "popular". We will address the nature of the PPT-OP distinction through the following basic questions:
 
