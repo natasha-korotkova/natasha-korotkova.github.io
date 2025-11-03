@@ -30,15 +30,15 @@ I am currently an Assistant Professor (Universitair Docent; tenured) at Utrecht 
 
 My research program centers on knowledge and belief: (i) the many means languages have to express epistemic and doxastic notions, (ii) the formal tools we need to descibe them, (iii) how they relate to the architercture of discourse, and (vi) how they inform our understanding of the natural language ontology. The specific phenomena I have worked on include evidentiality, modality, subjective language, attitude ascriptions, clausal complementation, speech acts, and question bias.
 
-Contact me: n dot last name at ucla dot edu
+<u>Contact me:</u> n dot last name at ucla dot edu
 
 ## News
 
 * May 2026. TBA. Keynote talk at [Philosophy in Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
+*   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
 * November 2025. Refining find: Facitivity, experience, categorical judgment. Invited talk at the workshop ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
 * November 2025. Today we learned: English 'come-to-know' predicates. Invited talk at a joint session of the [Valence Asymmetries](https://www.upf.edu/web/valence-asymmetries) Seminar Series and the [GLiF Formal Linguistics Research Group](https://www.upf.edu/web/glif) Seminar, University Pompeu Fabra, Spain. (joint work w/ Pranav Anand)
 * November 2025. I am starting an NWO XS project ["The grammar of opinion"](https://www.nwo.nl/en/projects/abzva90286).
-*   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
 *   July 2025. New manuscript: "The notional category of evidentiality". Submitted to: Arregui, A., V. Hacquard, and M. Ippolito, _The Cambirdge Handbook of Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
 *   May 2025. New paper: "Nothing to claim: Claim reports and non-endorsement". [A Festschrift in Honour of Regine Eckardt](https://edoc.hu-berlin.de/collections/042ccad3-b1a0-4b2a-951b-77ffa528e9d7). (w/ Pranav Anand) [\[paper\]](https://edoc.hu-berlin.de/items/bac101f3-17e8-440d-a630-0e74e1892d76)
 *   February 2025. "Re-imagining question bias". Invited talk at [the 25th Szklarska Poręba Workshop on the Roots of Pragmasemantics](https://sites.google.com/view/25th-szklarska-poreba-workshop/), Szklarska Poręba, Poland.

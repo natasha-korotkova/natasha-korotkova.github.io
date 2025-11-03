@@ -22,7 +22,7 @@ The next part focuses on less-studied puzzles. Day 3 will discuss overt tasters,
 Finally, on Day 5, we will examine the cognitive science perspective on taste attribution. We will focus on the philosophical literature on perceptual attribution and personal epistemology, as well as on neurophysiological research on aesthetic judgment.
 
 
-* Day 1: [Introduction and a taste of relativism](/summerschools/2022nasslli/nasslli2018-day1.pdf){:target="_blank"}
-* Day 2: [Theoretical landscape](/summerschools/2022nasslli/nasslli2018-day2.pdf){:target="_blank"}
-* Day 3: [The metasemantics of taste: an argument from 'non-main-predicate' position](/summerschools/2022nasslli/nasslli2018-day3.pdf){:target="_blank"}
-* Day 4: [Acquaintance content and obviation](/summerschools/2022nasslli/nasslli2018-day4.pdf] + handout [summerschools/2022nasslli/nasslli2018-day4-handout.pdf){:target="_blank"}
+* Day 1: [Introduction and a taste of relativism](/summerschools/2018nasslli/nasslli2018-day1.pdf){:target="_blank"}
+* Day 2: [Theoretical landscape](/summerschools/2018nasslli/nasslli2018-day2.pdf){:target="_blank"}
+* Day 3: [The metasemantics of taste: an argument from 'non-main-predicate' position](/summerschools/2018nasslli/nasslli2018-day3.pdf){:target="_blank"}
+* Day 4: [Acquaintance content and obviation](/summerschools/2018nasslli/nasslli2018-day4.pdf] + handout [summerschools/2018nasslli/nasslli2018-day4-handout.pdf){:target="_blank"}

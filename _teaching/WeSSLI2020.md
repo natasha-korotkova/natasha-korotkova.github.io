@@ -100,8 +100,8 @@ instead, they need to be justiﬁed in some way. The world's languages have many
 	
 Slides:
 
-* Day 1: [Introduction and foundational issues](/summerschools/2021esslli/wesslli-day1.pdf){:target="_blank"}
-* Day 2: [Evidential meaning and (not-)at-issueness](/summerschools/2021esslli/wesslli-day2.pdf){:target="_blank"}
-* Day 3: [Evidentiality and self-knowledge](/summerschools/2021esslli/wesslli-day3.pdf){:target="_blank"}
-* Day 4: [Hearsay and (non-)commitment](/summerschools/2021esslli/wesslli-day4.pdf){:target="_blank"}
-* Day 5: [Evidentiality, the universe and everything](/summerschools/2021esslli/wesslli-day5.pdf){:target="_blank"}
+* Day 1: [Introduction and foundational issues](/summerschools/2020wesslli/wesslli-day1.pdf){:target="_blank"}
+* Day 2: [Evidential meaning and (not-)at-issueness](/summerschools/2020wesslli/wesslli-day2.pdf){:target="_blank"}
+* Day 3: [Evidentiality and self-knowledge](/summerschools/2020wesslli/wesslli-day3.pdf){:target="_blank"}
+* Day 4: [Hearsay and (non-)commitment](/summerschools/2020wesslli/wesslli-day4.pdf){:target="_blank"}
+* Day 5: [Evidentiality, the universe and everything](/summerschools/2020wesslli/wesslli-day5.pdf){:target="_blank"}

@@ -64,7 +64,7 @@ lake_pic: lake-pics/lake-links.jpg
         <LI><a href="https://www.mathsummer.philosophie.uni-muenchen.de/index.html">Summer School on Mathematical Philosophy for Female Students</a>: Munich Center for Mathematical Philosophy (annual)</LI>
         <LI><a href="https://hamburgersommerkurs.wordpress.com/">Hamburg Summer School in Philosophy</a> (annual, one week)</LI>
         <LI><a href="http://cssip.uni-koeln.de/36363.html?&L=1">Cologne Summer School in Philosophy</a> (annual, one week)</LI>
-     <li><a href="https://sites.google.com/view/yalp2017/yalp-2024?authuser=0">YALP</a>: Yerevan Academy in Linguistics and Philosophy<li>
+     <li><a href="https://sites.google.com/view/yalp2017/yalp-2024?authuser=0">YALP</a>: Yerevan Academy in Linguistics and Philosophy</li>
 
         
         <br>
@@ -116,15 +116,15 @@ lake_pic: lake-pics/lake-links.jpg
    
 <details><summary>podcasts</summary>
         
-        <li><a href="https://lingthusiasm.com/" target="_blank">Lingthusiasm</a>: all things lingustics, for everyone</li>
-     <li><a href="https://www.accentricity-podcast.com/">Accentricity</a>: issues related to language and identity</li>
-     <li><a href="https://vocalfriespod.fireside.fm/">The Vocal Fries</a>: linguistic discrimination</li>
-     <li><a href="https://www.theallusionist.org/">The Allusionist</a>: English language, lexicon, etymology; check out this <a href="https://www.theguardian.com/culture/2015/sep/10/the-allusionist-podcast-helen-zaltzman-words-english">review</a> on the Guardian
-        <li><a href="http://www.philosophybites.com/"  target="_blank">Philosophy Bites</a>: all things philosophy, mostly for an academic listener</li>
-        <li><a href="https://stkirchin.podbean.com/"  target="_blank">Philosophy takes on the news</a></li>
-        <li><a href="https://www.philosophy2u.com/public-philosophy">Public Philosophy</a>: the series intended to engage a wider audience beyond academia</li>
-        <li><a href="https://dailynous.com/2020/11/23/big-list-philosophy-podcasts/">100+ list</a> of philsoophy-themed podcasts from Daily Nous</li>
-        <br>
+<li><a href="https://lingthusiasm.com/" target="_blank">Lingthusiasm</a>: all things lingustics, for everyone</li>
+<li><a href="https://www.accentricity-podcast.com/">Accentricity</a>: issues related to language and identity</li>
+<li><a href="https://vocalfriespod.fireside.fm/">The Vocal Fries</a>: linguistic discrimination</li>
+<li><a href="https://www.theallusionist.org/">The Allusionist</a>: English language, lexicon, etymology; check out this <a href="https://www.theguardian.com/culture/2015/sep/10/the-allusionist-podcast-helen-zaltzman-words-english">review</a> on the Guardian</li>
+<li><a href="http://www.philosophybites.com/"  target="_blank">Philosophy Bites</a>: all things philosophy, mostly for an academic listener</li>
+<li><a href="https://stkirchin.podbean.com/"  target="_blank">Philosophy takes on the news</a></li>
+<li><a href="https://www.philosophy2u.com/public-philosophy">Public Philosophy</a>: the series intended to engage a wider audience beyond academia</li>
+<li><a href="https://dailynous.com/2020/11/23/big-list-philosophy-podcasts/">100+ list</a> of philsoophy-themed podcasts from Daily Nous</li>
+<br>
         
 </details>
     
@@ -164,14 +164,14 @@ lake_pic: lake-pics/lake-links.jpg
         <!--<p>Gender bias in academia is alive and well: one example, another example and <a href="https://www.washingtonpost.com/blogs/monkey-cage/files/2013/10/Gender-Gap-Articles.pdf?noredirect=on">a comprehensive report on the gender gap</a>.</p>-->
         
         
-        <li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography/" target="_blank">An annotated bibliography</a> on gender bias in academia</li>
-        <LI><a href="https://www.linguisticsociety.org/about/who-we-are/committees/status-women-linguistics/selected-projects" target="_blank">LSA's committee</a> on the status of women in linguistics</LI>
-        <LI><a href="http://www.trees-and-lambdas.info/matushansky/gender.html" target="_blank">Gender distribution</a> in linguistic subfields, journals, job searches (maintained by Ora Matushansky)</LI>
-        <LI><a href="https://biasinlinguistics.org/" target="_blank">Bias in linguistics</a></LI>
-        <LI><a href="https://www.philosophy.rutgers.edu/climate-v2/climate-issues-in-academic-philosophy/climate-issues-academic-philosophy-further-information"  target="_blank">Resources</a> for, and about, women in philosophy (why <a href="https://opinionator.blogs.nytimes.com/2013/09/02/women-in-philosophy-do-the-math/">so few</a>, for example)</LI>
+<li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography/" target="_blank">An annotated bibliography</a> on gender bias in academia</li>
+<LI><a href="https://www.linguisticsociety.org/about/who-we-are/committees/status-women-linguistics/selected-projects" target="_blank">LSA's committee</a> on the status of women in linguistics</LI>
+<LI><a href="http://www.trees-and-lambdas.info/matushansky/gender.html" target="_blank">Gender distribution</a> in linguistic subfields, journals, job searches (maintained by Ora Matushansky)</LI>
+<LI><a href="https://biasinlinguistics.org/" target="_blank">Bias in linguistics</a></LI>
+<LI><a href="https://www.philosophy.rutgers.edu/climate-v2/climate-issues-in-academic-philosophy/climate-issues-academic-philosophy-further-information"  target="_blank">Resources</a> for, and about, women in philosophy (why <a href="https://opinionator.blogs.nytimes.com/2013/09/02/women-in-philosophy-do-the-math/">so few</a>, for example)</LI>
     
         
-        <br>
+<br>
 </details>
              
   
@@ -202,9 +202,9 @@ lake_pic: lake-pics/lake-links.jpg
     
     
 <details>
-    <summary>lightweight backpacking</summary>
+<summary>lightweight backpacking</summary>
     
-        <p>I love human-propelled travel in all forms, but long-distance hiking is my absolute passion. Here are some resources that can get one started and hopefully help to avoid some newbie mistakes: gear lists, recommendations, how-to's, trip reports and the general philosophy of being safe in the outdoors with less. If you've never backpacked, start <a href="https://andrewskurka.com/beginner-first-time-backpackers-advice-info-tips-resources/">here</a>. Happy trails!</p>
+<p>I love human-propelled travel in all forms, but long-distance hiking is my absolute passion. Here are some resources that can get one started and hopefully help to avoid some newbie mistakes: gear lists, recommendations, how-to's, trip reports and the general philosophy of being safe in the outdoors with less. If you've never backpacked, start <a href="https://andrewskurka.com/beginner-first-time-backpackers-advice-info-tips-resources/">here</a>. Happy trails!</p>
 
 <LI><a href="https://backpackinglight.com/" target="_blank">BackpackingLight</a></LI>
     <LI><a href="http://www.adventurealan.com/" target="_blank">Alan Dixon</a></LI>
