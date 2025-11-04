@@ -34,7 +34,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## News
 
-* May 2026. TBA. Keynote talk at [Philosophy in Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
+* May 2026. TBA. Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
 *   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
 * November 2025. Refining find: Facitivity, experience, categorical judgment. Invited talk at the workshop ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
 * November 2025. Today we learned: English 'come-to-know' predicates. Invited talk at a joint session of the [Valence Asymmetries](https://www.upf.edu/web/valence-asymmetries) Seminar Series and the [GLiF Formal Linguistics Research Group](https://www.upf.edu/web/glif) Seminar, University Pompeu Fabra, Spain. (joint work w/ Pranav Anand)
