@@ -2,7 +2,7 @@
 layout: teaching_project
 title: ESSLLI 2019
 description: Speech reports
-link: "https://elex.is/esslli2019/"
+link: 
 img: /assets/img/lake-pics/lake-esslli2019.jpg
 importance: 1
 year: 2019

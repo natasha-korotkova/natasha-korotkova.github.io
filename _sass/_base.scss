@@ -4,6 +4,9 @@
 
 // Typography
 
+body {
+  text-align: justify;
+}
 p,
 h1,
 h2,
@@ -17,6 +20,19 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+/* Add space between <details> blocks */
+details {
+  margin-bottom: 1em; /* controls vertical spacing between them */
+  padding: 0.5em 0;
+}
+
+/* Make list items inside details more indented */
+details li {
+  margin-left: 1.5em; /* adds indentation */
+  padding-left: 0.5em;
+  list-style-position: inside; /* keeps bullet or number neatly aligned */
 }
 
 hr {
