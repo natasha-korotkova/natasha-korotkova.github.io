@@ -16,7 +16,6 @@ lake_pic: lake-pics/lake-links.jpg
         <LI><a href="http://www.folli.info/?p=142" target="_blank">FoLLI</a>: the Association for Language, Logic and Information</LI> 
         
     
-  <br>
     
 </details>
     
@@ -28,7 +27,6 @@ lake_pic: lake-pics/lake-links.jpg
         <li><a href="https://oaling.wordpress.com/" target="_blank">OA journals in linguistics</a> (list maintained by my Konstanz colleague <a href="http://walkden.space/">George Walkden</a>)</li>
         <li><a href="https://langsci-press.org/" target="_blank">Language Science Press</a>: OA scholarly publisching house</li>
         <li><a href="https://www.lingoa.eu/about/mission/" target="_blank">Linguistics in OA</a>: a non-profit that facilitates OA publishing in linguistics</li>
-        <br>
 </details>
     
 <details>

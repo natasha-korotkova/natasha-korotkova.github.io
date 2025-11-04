@@ -16,7 +16,9 @@ h5,
 h6,
 em,
 div,
-li,
+li {
+  margin-bottom: 0.5em; /* adds indentation */
+}
 span,
 strong {
   color: var(--global-text-color);
@@ -183,6 +185,8 @@ ul.task-list input[type="checkbox"] {
 // Card
 
 .card {
+  margin-bottom: 1.5rem; /* or whatever spacing you want */
+
   background-color: var(--global-card-bg-color);
 
   .card-img {
