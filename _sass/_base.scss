@@ -26,8 +26,8 @@ strong {
 
 /* Add space between <details> blocks */
 details {
-  margin-bottom: 1em; /* controls vertical spacing between them */
-  padding: 0.5em 0;
+  margin-bottom: 0em; /* controls vertical spacing between them */
+  padding: 0.2em 0; /* controls vertical spacing between them */
 }
 
 /* Make list items inside details more indented */
