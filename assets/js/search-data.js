@@ -470,8 +470,8 @@ ninja.data = [{
           description: "An opinionated guide to the language of opinion",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ESSLLI2021/";
-            },},{id: "teaching-esslli-2020",
-          title: 'ESSLLI 2020',
+            },},{id: "teaching-esslli-2026",
+          title: 'ESSLLI 2026',
           description: "On the plurality of verbs: Attitudes of knowledge and belief",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/ESSLLI2026/";
