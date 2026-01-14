@@ -22,6 +22,19 @@
 
     <!-- Content -->
     <div class="container mt-5" role="main">
+	
+	
+  {% if page.lake_pic %}
+          {% assign lake_image_path = page.lake_pic | prepend: 'assets/img/' %}
+          
+          {%
+            include figure.liquid loading="eager" path=lake_image_path class='img-fluid z-depth-1
+      rounded' sizes=95vw
+            cache_bust=true
+          %}
+    {% endif %}
+
+	
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == 'right' %}
           <div class="row">

@@ -10,17 +10,6 @@ layout: default
 
 <div class="post">
 
-  {% if page.lake_pic %}
-          {% assign lake_image_path = page.lake_pic | prepend: 'assets/img/' %}
-          
-          {%
-            include figure.liquid loading="eager" path=lake_image_path class='img-fluid z-depth-1
-      rounded' sizes=95vw
-            cache_bust=true
-          %}
-        
-    {% endif %}
-
   <header class="post-header">
     <p class="post-description">{{ page.description }}</p>
   </header>

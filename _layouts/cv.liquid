@@ -2,7 +2,7 @@
 layout: default
 ---
 {% unless site.data.resume %}
-  <div class="post">
+  <div class="post">  
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
@@ -95,26 +95,16 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% when 'positions' %}
                   {% include resume/work.liquid %}
-                {% when 'volunteer' %}
-                  {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
-                {% when 'languages' %}
-                  {% include resume/languages.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% when 'certificates' %}
-                  {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
+                {% when 'research stays' %}
+                  {% include resume/research_stays.liquid %}
+                {% when 'funding' %}
+                  {% include resume/funding.liquid %}
+                {% when 'conferences organized' %}
+                  {% include resume/conferences_organized.liquid %}
+                {% when 'fieldwork' %}
+                  {% include resume/fieldwork.liquid %}
                 {% else %}
 
               {% endcase %}
