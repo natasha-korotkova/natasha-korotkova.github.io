@@ -34,6 +34,8 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## News
 
+* August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course at [ESSLLI 37](https://2026.esslli.eu/).
+* August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop at [ESSLLI 37](https://2026.esslli.eu/). (w S.Mascarenhas)
 * May 2026. TBA. Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
 *   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
 * November 2025. Refining find: Facitivity, experience, categorical judgment. Invited talk at the workshop ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
