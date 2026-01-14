@@ -23,6 +23,12 @@ These traditions show considerable overlap and complementarity, yet their intera
 
 <p>Below is a non-exhaustive list of subtopics of interest.  Note that this is an interdisciplinary workshop on one of the broadest research topics in linguistics, psychology, and philosophy.  As such we are entirely open to highly original submissions on non-traditional subtopics within our theme, provided that the authors are prepared to give a presentation to a varied audience with diverse backgrounds. We especially welcome submissions about work in progress, including from PhD students.</p>
 
+<style>
+li{
+    margin-left: 1.5em;
+}
+</style>
+
 <li>attitudes, reasoning, and rationality</li>
 <li>relation between knowledge and belief</li>
 <li>proper treatment of goals and desires</li>

@@ -9,6 +9,12 @@ year: 2026
 category: work
 ---
 
+<style>
+li{
+    margin-left: 1.5em;
+}
+</style>
+
 Propositional attitude reports — expressed by predicates like “believe”, “intend”, “know”, “want” — are a foundational topic in linguistics and philosophy of language. Research on attitudes sits at the intersection of several areas: the syntax of clausal complementation, the semantics of intensional environments, the nature of meaning, the structure of mental representations. Initial work suggested that such predicates can be attributed the same basic semantics, but already early work in formal semantics has shown that they aren’t in fact created equal. This begs the following questions: what natural classes are there within attitude predicates and what are the cognitive underpinnings behind those classes? A useful parallel here is research on modality in natural language: while modal words such as “can” or “must” exhibit many similarities that can be captured within a uniﬁed framework, modals of different varieties often exhibit properties that warrant a special treatment.
 
 Recently, there has been an explosion of cross-linguistic work on the ﬁne-grained semantics of attitude predicates, with a special focus on such issues as: mood choice, complement selection, new and old puzzles on presupposition projection, question embedding. This line of research seeks to identify broad classes within attitude predicates and to establish correlations between their different properties. However, with few exceptions, this fruitful research agenda is largely disconnected from the vast body of work within philosophy of mind and psychology that is concerned with the nature of mental attitudes.
