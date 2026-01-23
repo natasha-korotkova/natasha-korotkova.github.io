@@ -3,7 +3,7 @@ layout: teaching_project
 title: ESSLLI 2026
 description: "On the plurality of verbs: Attitudes of knowledge and belief"
 link: "https://2026.esslli.eu/"
-img: /assets/img/lake-pics/lake-wesslli.jpg
+img: /assets/img/lake-pics/lake-att-course.jpg
 importance: 1
 year: 2026
 category: work

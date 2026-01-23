@@ -2,6 +2,7 @@
 layout: page
 permalink: /attitudes2026.html
 title: attitudes2026
+lake_pic: lake-pics/lake-att-workshop.jpg
 nav: false
 ---
   
