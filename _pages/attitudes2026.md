@@ -18,7 +18,7 @@ nav: false
 
 <p>Invited speakers:</p> 
 
-<li>Speaker 1</li>
+<li><a href="https://reasoningandimagination.com/">Speaker 1</a></li>
 <li>Speaker 2</li>
 <li>Speaker 3</li>
 
