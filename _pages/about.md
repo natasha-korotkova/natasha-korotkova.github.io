@@ -34,7 +34,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## Recent manuscripts
 
-* January 2026. A novel perspective on negative bias in polar questions: The view from Russian. Accepted to: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]]([https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr](https://ling.auf.net/lingbuzz/008228))
+* January 2026. A novel perspective on negative bias in polar questions: The view from Russian. Accepted to: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]]([https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr](https://ling.auf.net/lingbuzz/008228)
 * July 2025. The notional category of evidentiality. Submitted to: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambirdge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
   
 
