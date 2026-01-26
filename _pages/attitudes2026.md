@@ -66,7 +66,8 @@ nav: false
 <p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition.</p>
  </details>
 
-<details> <summary>Program</summary> <br> TBD <br> </details>
+<details> <summary>Program (TBD)</summary> <br> Stay tuned!<br> </details>
+
 
 <br>
 <br>
