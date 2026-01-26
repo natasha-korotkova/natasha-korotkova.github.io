@@ -37,10 +37,11 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
   <summary>non-conferences</summary>
          
  <!--        <p><a href="">Rally against budget cuts in higher education</a>, Utrecht, Netherlands</p> -->
-  <li><a href="https://www.flickr.com/gp/57449897@N07/rW80m6W928">St. Maarten parade</a>, Utrecht, Netherlands</li>
-  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72177720297233746/">Peace rally</a>, Stuttgart, Germany</li>
-  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713426692871/">8th of March demonstration</a>, Barcelona, Spain</li>
-  <li><a href="https://flic.kr/s/aHBqjCkUMC">Wien Pride</a>, Austria</li>
+  <li><a href="https://flic.kr/s/aHBqjCkUMC">QWien Pride Parade</a>, Vienna, Austria, 2025</li>
+  <li><a href="https://www.flickr.com/gp/57449897@N07/rW80m6W928">St. Maarten parade</a>, Utrecht, Netherlands, 2024</li>
+  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72177720297233746/">Rally in support of Ukraine</a>, Stuttgart, Germany, 2022</li>
+  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713426692871/">An 8th of March demonstration</a>, Barcelona, Spain, 2020</li>
+ 
   <br>
 </details>
          
