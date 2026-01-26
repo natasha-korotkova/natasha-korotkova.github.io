@@ -12,9 +12,10 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
         
   <summary>conferences</summary>
 
-<li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Acquiantance, familiarity, value"</a>, Barcelona, Spain, 2025</li>  
+  <br>
 
-      <li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Normative generics"</a>, Konstanz, Germany, 2025</li>  
+<li><a href="https://flic.kr/s/aHBqjCAznW">Workshop "Acquiantance, familiarity, value"</a>, Barcelona, Spain, 2025</li>  
+<li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Normative generics"</a>, Konstanz, Germany, 2025</li>  
   <li><a href="https://flic.kr/s/aHBqjBZ69P">Workshop "Background beliefs in the construction of meaning"</a>, Tübingen, Germany, 2025</li>
         
   <li><a href="https://flic.kr/s/aHBqjC5rNX">The 24th Amsterdam Colloquium</a>, Amsterdam, Netherlands, 2024</li>
@@ -35,6 +36,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
         
 <details>
   <summary>non-conferences</summary>
+  <br>
          
  <!--        <p><a href="">Rally against budget cuts in higher education</a>, Utrecht, Netherlands</p> -->
   <li><a href="https://flic.kr/s/aHBqjCkUMC">QWien Pride Parade</a>, Vienna, Austria, 2025</li>
@@ -49,6 +51,8 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
     
 <details>
         <summary>mountains</summary>
+
+        <br>
         
     <!--    Surselva, Graubünden, Switzerland https://flic.kr/s/aHBqjzypeE
         Engadine, Graubünden, Switzerland https://flic.kr/s/aHBqjBX7nP
@@ -73,6 +77,8 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
     
 <details>
       <summary>non-mountains</summary>
+
+      <br>
         
         <li><a href="https://flic.kr/s/aHBqjC5xgb">Arizona</a>, USA</li>
         <li><a href="https://flic.kr/s/aHBqjC5sU9">Bodensee</a>, Germany/Austria/Switzerland</li>
@@ -95,6 +101,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
 <details>
             
             <summary>faces</summary>
+            <br>
                 <li><a href="https://www.flickr.com/gp/nkorotkova/2CKu8TaE4w">others</a></li>
       <li><a href="https://www.flickr.com/gp/57449897@N07/R6622e3691">self</a></li>
       <li><a href="https://www.flickr.com/photos/nkorotkova/albums/72177720330363574/">street</a></li>
