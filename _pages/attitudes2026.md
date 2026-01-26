@@ -18,8 +18,8 @@ nav: false
 
 <p>Invited speakers:</p> 
 
-<li><a href="https://reasoningandimagination.com/">Speaker 1</a></li>
-<li>Speaker 2</li>
+<li><a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin)</li>
+<li><a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</li>
 <li>Speaker 3</li>
 
 
