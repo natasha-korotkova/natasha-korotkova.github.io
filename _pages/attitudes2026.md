@@ -26,7 +26,7 @@ nav: false
       
       <br>
 
-   <details> <summary>Detailed description</summary>   
+   <details> <summary>Detailed description</summary>   <br>
       
       In linguistics and philosophy of language, research on propositional attitudes was fundamental in shaping our understanding of the nature of meaning and semantic objects, proceeding in parallel to research on modality in natural language. More recently, there has been a steady interest in the fine-grained semantics of attitude predicates that draws on materials from an array of languages (Georgian, Koryak, Mandarin Chinese, Navajo, Nez Perce, Polish, Slovene, Turkish, to name a few) and pays serious attention to the interaction between verb meaning and the syntactic shape of the complement. This work has dramatically increased the empirical coverage of linguistic theory and improved our understanding of broad classes found within attitude predicates that reflect differences in their core semantics. However, with few exceptions, linguistic research on attitude predicates has remained largely disconnected from the vast body of literature concerned with the very nature of mental attitudes. 
       
