@@ -36,11 +36,11 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## News
 
-* August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course at [ESSLLI 37](https://2026.esslli.eu/).
-* August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop at [ESSLLI 37](https://2026.esslli.eu/). (w S.Mascarenhas)
+* August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 1 of [ESSLLI 37](https://2026.esslli.eu/).
+* August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://2026.esslli.eu/). (w S.Mascarenhas)
 * May 2026. TBA. Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
-* April 2026. Keynote talk at Polar Questions Across Languages 3, University of Göttingen, Germany.
-*   November 2025. TBA. Invited talk at the workshop "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
+* April 2026. Keynote talk at [Polar Questions Across Languages 3](https://uni-goettingen.de/de/vorschau_d3913cfa2356964224d1f3a903d75724/678871.html), University of Göttingen, Germany.
+*   November 2025. A novel perspective on question bias: The view from Russian. Keynote talk at "Creative Discourse beyond Discourse Expectations and Implicit Meaning", Bielefeld University, Germany.
 * November 2025. Refining find: Facitivity, experience, categorical judgment. Invited talk at the workshop ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
 * November 2025. Today we learned: English 'come-to-know' predicates. Invited talk at a joint session of the [Valence Asymmetries](https://www.upf.edu/web/valence-asymmetries) Seminar Series and the [GLiF Formal Linguistics Research Group](https://www.upf.edu/web/glif) Seminar, University Pompeu Fabra, Spain. (joint work w/ Pranav Anand)
 * November 2025. I am starting an NWO XS project ["The grammar of opinion"](https://www.nwo.nl/en/projects/abzva90286).
