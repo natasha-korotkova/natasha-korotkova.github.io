@@ -17,7 +17,11 @@ nav: false
 <p>Propositional attitudes, linguistically expressed with predicates like “believe”, “intend”, “know” or “want”, constitute one of the central topics in linguistics and philosophy, and they are the foundation of belief-desire-intention psychology. Propositional attitudes allow us to express key aspects of our mental lives for external use in communication and internal use in reasoning. This workshop, to take place during Week 2 of the 37th edition of <a href="https://2026.esslli.eu/">ESSLLI</a> (European Summer School on Language, Logic and Information), aims at assessing the state of the art on propositional attitudes and identifying areas for interdisciplinary collaborations. The workshop financially supported by NWO (grant 406.XS.25.01.105; PI Korotkova).</p> 
 
 <p>Invited speakers:</p> 
-      
+      Ruth Byrne
+      <br>
+      Thomas Grano
+      <br>
+      Jonathan Phillips
       
 
       <li> <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin) </li>
