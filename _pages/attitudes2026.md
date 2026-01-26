@@ -65,8 +65,7 @@ nav: false
 <p>Each author may submit either (A) one single-authored abstract; (B) one single-authored abstract and one multiple-authored abstract; or (C) two multiple-authored abstracts.</p>
 
 <p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition.</p>
-
-<br> </details>
+ </details>
 
 <details> <summary>Program</summary> <br> TBD <br> </details>
 
