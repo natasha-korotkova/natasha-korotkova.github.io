@@ -18,8 +18,8 @@ nav: false
 
 <p>Invited speakers:</p> 
       
-      <br>
       
+
       <li> <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin) </li>
      <li> <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington) </li>
       <li> <a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College) </li>
@@ -28,7 +28,7 @@ nav: false
 
    <details> <summary>Detailed description</summary>   
       
-      <p>In linguistics and philosophy of language, research on propositional attitudes was fundamental in shaping our understanding of the nature of meaning and semantic objects, proceeding in parallel to research on modality in natural language. More recently, there has been a steady interest in the fine-grained semantics of attitude predicates that draws on materials from an array of languages (Georgian, Koryak, Mandarin Chinese, Navajo, Nez Perce, Polish, Slovene, Turkish, to name a few) and pays serious attention to the interaction between verb meaning and the syntactic shape of the complement. This work has dramatically increased the empirical coverage of linguistic theory and improved our understanding of broad classes found within attitude predicates that reflect differences in their core semantics. However, with few exceptions, linguistic research on attitude predicates has remained largely disconnected from the vast body of literature concerned with the very nature of mental attitudes.</p> 
+      In linguistics and philosophy of language, research on propositional attitudes was fundamental in shaping our understanding of the nature of meaning and semantic objects, proceeding in parallel to research on modality in natural language. More recently, there has been a steady interest in the fine-grained semantics of attitude predicates that draws on materials from an array of languages (Georgian, Koryak, Mandarin Chinese, Navajo, Nez Perce, Polish, Slovene, Turkish, to name a few) and pays serious attention to the interaction between verb meaning and the syntactic shape of the complement. This work has dramatically increased the empirical coverage of linguistic theory and improved our understanding of broad classes found within attitude predicates that reflect differences in their core semantics. However, with few exceptions, linguistic research on attitude predicates has remained largely disconnected from the vast body of literature concerned with the very nature of mental attitudes. 
       
 <p>In philosophy of mind and intentional psychology, attention has chiefly been directed at the role of propositional attitudes as causes of other mental states and of interactions with the environment, focusing especially on experiments testing the behavioral consequences of attitudes. Doxastic attitudes have played a key role in this literature, in particular “know” and “believe”. Perhaps the best known topic of research on attitudes within this tradition is theory of mind, the capacity to represent and reason with other individuals' mental states; in particular, extensive debates about the preschoolers’ ability to attribute false beliefs to other agents and what this ability tells us about cognition at large.  This vast literature illustrates quite clearly the importance of attitudes in cognition, however, despite its high relevance for linguistics, and reliance on linguistic data, this strand of work  has been largely disconnected from the research on the language of propositional attitudes.</p> 
       
