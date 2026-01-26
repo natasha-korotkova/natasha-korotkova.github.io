@@ -39,7 +39,7 @@ nav: false
       
       <br>
       
-      <style>li{margin-left:1.5em}</style> <li>attitudes, reasoning, and rationality</li> 
+      <li>attitudes, reasoning, and rationality</li> 
       <li>relation between knowledge and belief</li> 
       <li>proper treatment of goals and desires</li> 
       <li>concepts (not) lexicalized by attitude verbs and gaps in the attitudinal domain</li> 
