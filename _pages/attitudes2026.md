@@ -18,6 +18,11 @@ nav: false
 
 <p>Invited speakers:</p> 
 
+<li>Speaker 1</li>
+<li>Speaker 2</li>
+<li>Speaker 3</li>
+
+
   <p>    <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin)</p>
 <p>      <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</p>
 <p>      <a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College)</p>
