@@ -20,9 +20,9 @@ nav: false
       
       <br>
       
-      * <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin)
-     * <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington) 
-      * <a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College)
+      <li> <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin) </li>
+     <li> <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington) </li>
+      <li> <a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College) </li>
       
       <br>
 
@@ -69,8 +69,6 @@ nav: false
 <p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition.</p>
 
 <br> </details>
-
-<br>
 
 <details> <summary>Program</summary> <br> TBD <br> </details>
 
