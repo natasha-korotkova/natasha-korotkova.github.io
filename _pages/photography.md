@@ -7,11 +7,14 @@ nav_order: 6
 lake_pic: lake-pics/lake-photo.jpg
 ---
 
-Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under a [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name).
+Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under a [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name). Think of it as citing an academic paper!
 <details>
         
   <summary>conferences</summary>
-        
+
+<li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Acquiantance, familiarity, value"</a>, Barcelona, Spain, 2025</li>  
+
+      <li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Normative generics"</a>, Konstanz, Germany, 2025</li>  
   <li><a href="https://flic.kr/s/aHBqjBZ69P">Workshop "Background beliefs in the construction of meaning"</a>, Tübingen, Germany, 2025</li>
         
   <li><a href="https://flic.kr/s/aHBqjC5rNX">The 24th Amsterdam Colloquium</a>, Amsterdam, Netherlands, 2024</li>
@@ -93,6 +96,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
             <summary>faces</summary>
                 <li><a href="https://www.flickr.com/gp/nkorotkova/2CKu8TaE4w">others</a></li>
       <li><a href="https://www.flickr.com/gp/57449897@N07/R6622e3691">self</a></li>
+      <li><a href="https://www.flickr.com/photos/nkorotkova/albums/72177720330363574/">street</a></li>
 </details>
     
 <br>
