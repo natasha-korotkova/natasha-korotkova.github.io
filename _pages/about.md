@@ -41,7 +41,7 @@ My research program centers on knowledge and belief: (i) the many means language
 ## News
 
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 1 of [ESSLLI 37](https://2026.esslli.eu/).
-* August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://2026.esslli.eu/). (w S.Mascarenhas)
+* August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://2026.esslli.eu/). (w/ S.Mascarenhas)
 * May 2026. TBA. Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/).
 * April 2026. TBA. Keynote talk at [Polar Questions Across Languages 3](https://uni-goettingen.de/de/vorschau_d3913cfa2356964224d1f3a903d75724/678871.html), University of Göttingen, Germany.
 *   November 2025. "A novel perspective on question bias: The view from Russian". Keynote talk at [Creative Discourse beyond Discourse Expectations and Implicit Meaning](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/tagungen-workshops/creative-discourse/), Bielefeld University, Germany.
