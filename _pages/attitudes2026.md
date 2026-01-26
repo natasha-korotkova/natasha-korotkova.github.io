@@ -22,6 +22,7 @@ nav: false
 <li><a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</li>
 <li><a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College)</li>
 
+<br>
 
    <details> <summary>Detailed description</summary>   <br>
       
