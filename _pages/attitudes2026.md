@@ -20,9 +20,9 @@ nav: false
       
       <br>
       
-      <li> <a href="https://reasoningandimagination.com/" target="_blank" >Ruth Byrne</a> (University of Dublin)</li> 
-      <li> <a href="https://sites.google.com/site/tgrano/" target="_blank" >Thomas Grano</a> (Indiana University, Bloomington)</li> 
-      <li> <a href="https://phillab.host.dartmouth.edu/" target="_blank" >Jonathan Phillips</a> (Dartmouth College)</li> 
+      <li> <a href="https://reasoningandimagination.com/" >Ruth Byrne</a> (University of Dublin)</li> 
+      <li> <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</li> 
+      <li> <a href="https://phillab.host.dartmouth.edu/" >Jonathan Phillips</a> (Dartmouth College)</li> 
       
       <br>
 
@@ -39,7 +39,12 @@ nav: false
       
       <br>
       
-      <style>li{margin-left:1.5em}</style> <li>attitudes, reasoning, and rationality</li> <li>relation between knowledge and belief</li> <li>proper treatment of goals and desires</li> <li>concepts (not) lexicalized by attitude verbs and gaps in the attitudinal domain</li> <li>non-linguistic constraints on attitudinal meaning</li> <li>philosophy of intentional psychology</li> 
+      <style>li{margin-left:1.5em}</style> <li>attitudes, reasoning, and rationality</li> 
+      <li>relation between knowledge and belief</li> 
+      <li>proper treatment of goals and desires</li> 
+      <li>concepts (not) lexicalized by attitude verbs and gaps in the attitudinal domain</li> 
+      <li>non-linguistic constraints on attitudinal meaning</li> 
+      <li>philosophy of intentional psychology</li> 
       
       <br>
       
