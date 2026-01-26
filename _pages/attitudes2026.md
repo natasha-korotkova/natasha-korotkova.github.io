@@ -20,9 +20,9 @@ nav: false
       
       <br>
       
-      <li> <a href="https://reasoningandimagination.com/" >Ruth Byrne</a> (University of Dublin)</li> 
+      <li> <a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin)</li> 
       <li> <a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</li> 
-      <li> <a href="https://phillab.host.dartmouth.edu/" >Jonathan Phillips</a> (Dartmouth College)</li> 
+      <li> <a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College)</li> 
       
       <br>
 
