@@ -32,6 +32,8 @@ My research program centers on knowledge and belief: (i) the many means language
 
 <u>Contact me:</u> n dot last name at ucla dot edu
 
+## Recent manuscripts
+
 ## News
 
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course at [ESSLLI 37](https://2026.esslli.eu/).
