@@ -2,7 +2,7 @@
   "basics": {
     "name": "Natasha Korotkova",
     "label": "Linguist",
-    "email": "n.korotkova@eucla.edu",
+    "email": "n.korotkova@ucla.edu",
     "url": "https://natasha-korotkova.github.io/",
     "location": {
       "address": "Campusplein 1",
@@ -30,14 +30,14 @@
 
 {
 "name": "University of Konstanz",
- "position":"post-doctoral researcher",
+ "position":"Post-doctoral researcher",
  "startDate":"2017",
  "endDate":"2022"
  },
 
 {
 "name": "University of Tübingen",
- "position":"post-doctoral researcher",
+ "position":"Post-doctoral researcher",
  "startDate":"2016",
  "endDate":"2017"
  }
@@ -85,7 +85,7 @@
 
 {
 "institution": "Linguistics Department, University of California, Santa Cruz",
-"location": "Santa Cruz, Spain",
+"location": "Santa Cruz, USA",
 "date": "2017"
 },
 
@@ -177,7 +177,7 @@
 {"name": "Conceptual Structure of Attitudes",
 "date": "2026",
 "institution":"ESSLLI 37",
-"location":"Prague, Czech Republic",
+"location":"Prague, Czechia",
 "summary":"Co-organized with S.Mascarenhas",
 "url":"https://natasha-korotkova.github.io/attitudes2026.html" 
 },
@@ -187,7 +187,7 @@
 "date": "2022",
 "institution":"University of Konstanz",
 "location": "Konstanz, Germany",
-"summary":"An interdisciplinary workshop on linguistics and philosophy, with J.Briesen",
+"summary":"Co-organized with J.Briesen",
 "url":"https://natasha-korotkova.github.io/ai2022.html"
 },
 
@@ -212,7 +212,7 @@
 "date": "2011",
 "institution":"Institute for the Russian Language of the Russian Academy of Sciences",
 "location": "Moscow, Russia",
-"summary":"With P. Arkadiev, V. Kimmelman, A. Letuchiy, A. Pazelskaya, I. Yanovich",
+"summary":"Co-organized with P. Arkadiev, V. Kimmelman, A. Letuchiy, A. Pazelskaya, I. Yanovich",
 "url":"https://natasha-korotkova.github.io/moss/program.html"
 },
 
@@ -221,7 +221,7 @@
 "date": "2009",
 "institution":"Institute for the Russian Language of the Russian Academy of Sciences",
 "location": "Moscow, Russia",
-"summary":"With P. Arkadiev, V. Kimmelman, A. Letuchiy, A. Pazelskaya, I. Yanovich",
+"summary":"Co-organized with P. Arkadiev, V. Kimmelman, A. Letuchiy, A. Pazelskaya, I. Yanovich",
 "url":"https://natasha-korotkova.github.io/moss/previous/moss09_program.html"
 },
 
@@ -230,7 +230,7 @@
 "date": "2008",
 "institution":"Russian State University for the Humanities",
 "location": "Moscow, Russia",
-"summary":"With V. Kimmelman, A. Letuchiy, Y. Testelets, V. Volk",
+"summary":"Co-organized with V. Kimmelman, A. Letuchiy, Y. Testelets, V. Volk",
 "url":"https://natasha-korotkova.github.io/moss/previous/ss08_program.html"
 },
 
@@ -239,7 +239,7 @@
 "date": "2007",
 "institution":"Russian State University for the Humanities",
 "location": "Moscow, Russia",
-"summary":"With A. Letuchiy, Y. Testelets, V. Volk",
+"summary":"Co-organized with A. Letuchiy, Y. Testelets, V. Volk",
 "url":"https://natasha-korotkova.github.io/moss/previous/ss07_program.html"
 }
 
