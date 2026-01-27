@@ -60,11 +60,15 @@ nav: false
 
 <p><b>Format:</b></p>
 
-<p>We anticipate having six to eight refereed talks, with the possibility of a poster session. All submissions must be made through OpenReview at <a href="https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA">this address</a> (<a href="https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA">https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA</a>).  Abstracts can have up to two pages of main text, with an optional third page exclusively for figures, tables, and fully glossed and translated example sentences in languages other than English.  Authors should exercise good judgment when formatting their abstracts: we don't impose any specific formatting constraints, but we expect abstracts to be readable in a comfortable manner (if we can’t read it, we can’t review it).  Authors are welcome to include only selected references, skipping bibliographic information about well-known classics in the field.</p>
+<p>We anticipate having six to eight refereed talks, with the possibility of a poster session. All submissions must be made through OpenReview at <a href="https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA">this address</a> (<a href="https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA">https://openreview.net/group?id=ESSLLI.eu/2026/Workshop/CSA</a>). If you’re planning to submit, please make sure you create an OpenReview account in advance if you don’t have it yet, as it takes a bit of time.
+</p>
+  
+  
+ <p>Abstracts can have up to two pages of main text, with an optional third page exclusively for figures, tables, and fully glossed and translated example sentences in languages other than English.  Authors should exercise good judgment when formatting their abstracts: we don't impose any specific formatting constraints, but we expect abstracts to be readable in a comfortable manner (if we can’t read it, we can’t review it).  Authors are welcome to include only selected references, skipping bibliographic information about well-known classics in the field.</p>
 
 <p>Each author may submit either (A) one single-authored abstract; (B) one single-authored abstract and one multiple-authored abstract; or (C) two multiple-authored abstracts.</p>
 
-<p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition.</p>
+<p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition. We should also note that all workshop participants will be asked to pay the ESSLLI registration fee. Depending on the number of participants and their funding situation, we hope to be able to cover some of these costs, but can’t be sure at present.</p>
  </details>
 
 <details> <summary>Program (TBD)</summary> <br> Stay tuned!<br> </details>
