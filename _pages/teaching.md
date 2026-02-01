@@ -14,7 +14,7 @@ I have extensive teaching experience with courses of different levels (BA/BSc; M
 * Formal logic for open minds
 * Introduction to linguistics: The science of language
 * Syntax and semantics: Language form and meaning
-* Pragmatics: Meaning in conversation
+* Pragmatics: Meaning and reasoning in conversation
 
 Additionally, I strongly believe in cross-fertilization across disciplinary boundaries and am committed to teaching at language, logic and information summer schools held under the auspices of [FoLLI](https://folli.info/). See below for materials.
 

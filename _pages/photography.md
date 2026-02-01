@@ -7,11 +7,15 @@ nav_order: 6
 lake_pic: lake-pics/lake-photo.jpg
 ---
 
-Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under a [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name).
+Here are some photos I have taken. You can find more [here](https://www.flickr.com/photos/57449897@N07/). Most of them are licensed under a [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/), meaning you can freely use them with proper attribution (=just add my name). Think of it as citing an academic paper!
 <details>
         
   <summary>conferences</summary>
-        
+
+  <br>
+
+<li><a href="https://flic.kr/s/aHBqjCAznW">Workshop "Acquiantance, familiarity, value"</a>, Barcelona, Spain, 2025</li>  
+<li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Normative generics"</a>, Konstanz, Germany, 2025</li>  
   <li><a href="https://flic.kr/s/aHBqjBZ69P">Workshop "Background beliefs in the construction of meaning"</a>, Tübingen, Germany, 2025</li>
         
   <li><a href="https://flic.kr/s/aHBqjC5rNX">The 24th Amsterdam Colloquium</a>, Amsterdam, Netherlands, 2024</li>
@@ -32,12 +36,14 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
         
 <details>
   <summary>non-conferences</summary>
+  <br>
          
  <!--        <p><a href="">Rally against budget cuts in higher education</a>, Utrecht, Netherlands</p> -->
-  <li><a href="https://www.flickr.com/gp/57449897@N07/rW80m6W928">St. Maarten parade</a>, Utrecht, Netherlands</li>
-  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72177720297233746/">Peace rally</a>, Stuttgart, Germany</li>
-  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713426692871/">8th of March demonstration</a>, Barcelona, Spain</li>
-  <li><a href="https://flic.kr/s/aHBqjCkUMC">Wien Pride</a>, Austria</li>
+  <li><a href="https://flic.kr/s/aHBqjCkUMC">QWien Pride Parade</a>, Vienna, Austria, 2025</li>
+  <li><a href="https://www.flickr.com/gp/57449897@N07/rW80m6W928">St. Maarten parade</a>, Utrecht, Netherlands, 2024</li>
+  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72177720297233746/">Rally in support of Ukraine</a>, Stuttgart, Germany, 2022</li>
+  <li><a href="https://www.flickr.com/photos/57449897@N07/albums/72157713426692871/">An 8th of March demonstration</a>, Barcelona, Spain, 2020</li>
+ 
   <br>
 </details>
          
@@ -45,6 +51,8 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
     
 <details>
         <summary>mountains</summary>
+
+        <br>
         
     <!--    Surselva, Graubünden, Switzerland https://flic.kr/s/aHBqjzypeE
         Engadine, Graubünden, Switzerland https://flic.kr/s/aHBqjBX7nP
@@ -69,6 +77,8 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
     
 <details>
       <summary>non-mountains</summary>
+
+      <br>
         
         <li><a href="https://flic.kr/s/aHBqjC5xgb">Arizona</a>, USA</li>
         <li><a href="https://flic.kr/s/aHBqjC5sU9">Bodensee</a>, Germany/Austria/Switzerland</li>
@@ -91,8 +101,10 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
 <details>
             
             <summary>faces</summary>
+            <br>
                 <li><a href="https://www.flickr.com/gp/nkorotkova/2CKu8TaE4w">others</a></li>
       <li><a href="https://www.flickr.com/gp/57449897@N07/R6622e3691">self</a></li>
+      <li><a href="https://www.flickr.com/photos/nkorotkova/albums/72177720330363574/">street</a></li>
 </details>
     
 <br>
