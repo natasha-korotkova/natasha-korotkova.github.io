@@ -34,7 +34,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## Recent manuscripts
 
-* April 2026. The notional category of evidentiality. Submitted to: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambirdge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
+* April 2026. The notional category of evidentiality. Submitted to: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambridge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
 * March 2026. Hearsay and (non-)endorsement. Under review. [\[paper\]](https://ling.auf.net/lingbuzz/009842)
 * January 2026. A novel perspective on negative bias in polar questions: The view from Russian. Accepted to: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]](https://ling.auf.net/lingbuzz/008228)
 
@@ -45,8 +45,8 @@ My research program centers on knowledge and belief: (i) the many means language
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 1 of [ESSLLI 37](https://2026.esslli.eu/).
 * August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://2026.esslli.eu/). (w/ S.Mascarenhas)
 * May 2026. "Refining _find_". Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/). (joint work w/ Pranav Anand)
-* April 2026. "What _li_ does: Ignorance anc knowledge in Russian polar questions". Keynote talk at [Polar Questions Across Languages 3](https://uni-goettingen.de/de/vorschau_d3913cfa2356964224d1f3a903d75724/678871.html), University of Göttingen, Germany.
-* April 2026. "Natural classes within attitude predicates: English 'come-to-know' verbs". Talk at Oberseminar English Linguistics, University of Göttingen, Germany.
+* April 2026. "What _li_ does: Ignorance and knowledge in Russian polar questions". Keynote talk at [Polar Questions Across Languages 3](https://uni-goettingen.de/de/vorschau_d3913cfa2356964224d1f3a903d75724/678871.html), University of Göttingen, Germany.
+* April 2026. "Natural classes within attitude predicates: English 'come-to-know' verbs". Talk at Oberseminar English Linguistics, University of Göttingen, Germany. (joint work w/ Pranav Anand)
 *   November 2025. "A novel perspective on question bias: The view from Russian". Keynote talk at [Creative Discourse beyond Discourse Expectations and Implicit Meaning](https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/tagungen-workshops/creative-discourse/), Bielefeld University, Germany.
 * November 2025. "Refining find: Facitivity, experience, categorical judgment". Keynote talk at ["Acquaintance, Familiarity & Value"](https://sites.google.com/view/andressoriaruiz/workshop-acquaintance-familiarity-value), Unversity of Barcelona, Spain. (joint work w/ Pranav Anand)
 * November 2025. Today we learned: English 'come-to-know' predicates. Invited talk at a joint session of the [Valence Asymmetries](https://www.upf.edu/web/valence-asymmetries) Seminar Series and the [GLiF Formal Linguistics Research Group](https://www.upf.edu/web/glif) Seminar, University Pompeu Fabra, Spain. (joint work w/ Pranav Anand)
