@@ -37,7 +37,7 @@ GEM
       namae (~> 1.0)
       observer (< 1.0)
       open-uri (< 1.0)
-    citeproc-ruby (2.1.1)
+    citeproc-ruby (2.1.8)
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 2.0)
       observer (< 1.0)
@@ -161,9 +161,9 @@ GEM
     jekyll-regex-replace (1.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
-    jekyll-scholar (7.2.0)
+    jekyll-scholar (7.3.0)
       bibtex-ruby (~> 6.0)
-      citeproc-ruby (~> 2.0)
+      citeproc-ruby (>= 2.1.6)
       csl-styles (~> 2.0)
       jekyll (~> 4.0)
     jekyll-sitemap (1.4.0)
@@ -302,7 +302,7 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-regex-replace
-  jekyll-scholar
+  jekyll-scholar (>= 7.2.2)
   jekyll-sitemap
   jekyll-tabs
   jekyll-terser!
