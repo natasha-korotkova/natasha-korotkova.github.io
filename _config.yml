@@ -198,6 +198,8 @@ exclude:
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/projects.md
+  - _pages/page_template.md
+  - _teaching/teaching_template.md
   
   
 keep_files:
