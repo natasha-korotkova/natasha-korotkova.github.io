@@ -7,12 +7,10 @@ first_name: natasha
 middle_name: 
 last_name: korotkova
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  n dot last name at ucla dot edu
+description: >  # the ">" symbol means to ignore newlines until "footer_text:"
+  Natasha Korotkova's Website
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   <a href="https://www.globalzero.org/index.html" target="_blank">We can eliminate nuclear weapons in our lifetime.</a>
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -321,6 +319,7 @@ filtered_bibtex_keywords:
     award_name,
     bibtex_show,
     blog,
+    category,
     code,
     google_scholar_id,
     html,
