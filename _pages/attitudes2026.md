@@ -113,7 +113,7 @@ nav: false
 
 <br>
 
-<p>11:00 -- 12:00 Invited talk: Tomas Grano (Indiana University)</p>
+<p>11:00 -- 12:00 Invited talk: Thomas Grano (Indiana University)</p>
 <p>12:00 -- 12:30 Closing remarks</p>
 
 <br>
