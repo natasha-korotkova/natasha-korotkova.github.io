@@ -34,16 +34,16 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## Recent manuscripts
 
-* April 2026. The notional category of evidentiality. Submitted to: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambridge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
-* March 2026. Hearsay and (non-)endorsement. Under review. [\[paper\]](https://ling.auf.net/lingbuzz/009842)
-* January 2026. A novel perspective on negative bias in polar questions: The view from Russian. Accepted to: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]](https://ling.auf.net/lingbuzz/008228)
+* April 2026. The notional category of evidentiality. To appear in: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambridge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
+* March 2026. Hearsay and (non-)endorsement. Accapted to _Languages_ (minor revisions). [\[paper\]](https://ling.auf.net/lingbuzz/009842)
+* January 2026. A novel perspective on negative bias in polar questions: The view from Russian. To appear in: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]](https://ling.auf.net/lingbuzz/008228)
 
   
 
 ## News
 
 * August 2016. "A saucerful of _finds_". Talk at the workshop ["Polysemy across categories"](https://sites.google.com/view/pac2026/home), ESSLLI 37. (joint work w/ Pranav Anand)
-* August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 1 of [ESSLLI 37](https://2026.esslli.eu/).
+* August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 2 of [ESSLLI 37](https://2026.esslli.eu/).
 * August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://2026.esslli.eu/). (w/ S.Mascarenhas)
 * May 2026. "Refining _find_". Keynote talk at [Philosophy and Generative Grammar 3](https://sites.google.com/view/philosophy-generative-grammar3/). (joint work w/ Pranav Anand)
 * April 2026. "What _li_ does: From ignorance to knowledge (Russian polar questions and beyond)". Keynote talk at [Polar Questions Across Languages 3](https://uni-goettingen.de/de/vorschau_d3913cfa2356964224d1f3a903d75724/678871.html), University of Göttingen, Germany.
