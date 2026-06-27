@@ -76,13 +76,15 @@ nav: false
 <br>
 <p>Workshop dinner (self-paid): Tuesday, August 11; details TBA</p>
   
-  <br> <p>Day 1: August 10</p>
+  <br> <p><u>Day 1: August 10</u></p>
   <br>
 <p>11:00 -- 11:30 Introduction by the organizers</p>
 <p>11:30 -- 12:30 Invited talk: Jonathan Phillips (Dartmouth)</p>
 
+
+
 <br>
-<p>Day 2, Aug 11</p>
+<p><u>Day 2, Aug 11</u></p>
 <br>
 <p>11:00 -- 11:30 Tomasz Klochowicz (ILLC, UvA) "Believing disjunctions"</p>
 <p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin)</p>
@@ -90,7 +92,7 @@ nav: false
 
 <br>
 
-<p>Day 3, Aug 12</p>
+<p><u>Day 3, Aug 12</u></p>
 <br>
 
 <p>11:00 -- 11:30 Wojciech Rostworowski, Katarzyna Kuś, Bartosz Maćkiewicz (Warsaw) "Free Choice in Desire Ascriptions" (online)</p>
@@ -99,7 +101,7 @@ nav: false
 
 <br>
 
-<p>Day 4, Aug 13</p>
+<p><u>Day 4, Aug 13</u></p>
 <br>
 <p>11:00 -- 11:30 Setayesh Dashti, Zahra Mirrazi, Huilei Wang, Hedde Zeijlstra (Göttingen), Manfred Sailer (Frankfurt)  "Semantics of attitude predicates and neg-raising"</p>
 <p>11:30 -- 11:45 Poster session lightning talks</p>
@@ -107,7 +109,7 @@ nav: false
 
 <br>
 
-<p>Day 5, Aug 14</p>
+<p><u>Day 5, Aug 14</u></p>
 
 <br>
 
