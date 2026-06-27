@@ -35,7 +35,7 @@ My research program centers on knowledge and belief: (i) the many means language
 ## Recent manuscripts
 
 * April 2026. The notional category of evidentiality. To appear in: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambridge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
-* March 2026. Hearsay and (non-)endorsement. Accapted to _Languages_ (minor revisions). [\[paper\]](https://ling.auf.net/lingbuzz/009842)
+* March 2026. Hearsay and (non-)endorsement. Accepted to _Languages_ (minor revisions). [\[paper\]](https://ling.auf.net/lingbuzz/009842)
 * January 2026. A novel perspective on negative bias in polar questions: The view from Russian. To appear in: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]](https://ling.auf.net/lingbuzz/008228)
 
   
