@@ -71,7 +71,65 @@ nav: false
 <p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition. We should also note that all workshop participants will be asked to pay the ESSLLI registration fee. Depending on the number of participants and their funding situation, we hope to be able to cover some of these costs, but can’t be sure at present.</p>
  </details>
 
-<details> <summary>Program (TBD)</summary> <br> Stay tuned!<br> </details>
+<details> <summary>Preliminary program</summary> 
+
+<br>
+<p>Workshop dinner (self-paid): Tuesday, August 11; details TBA</p>
+  
+  <br> <p>Day 1: August 10</p>
+  <br>
+<p>11:00 -- 11:30 Introduction by the organizers</p>
+<p>11:30 -- 12:30 Invited talk: Jonathan Phillips (Dartmouth)</p>
+
+<br>
+<p>Day 2, Aug 11</p>
+<br>
+<p>11:00 -- 11:30 Tomasz Klochowicz (ILLC, UvA) "Believing disjunctions"</p>
+<p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin)</p>
+
+
+<br>
+
+<p>Day 3, Aug 12</p>
+<br>
+
+<p>11:00 -- 11:30 Wojciech Rostworowski, Katarzyna Kuś, Bartosz Maćkiewicz (University of Warsaw) "Free Choice in Desire Ascriptions" (online)</p>
+<p>11:30 -- 12:00 Achille Fusco (University of Florence), Valentina Bianchi (University of Siena), Silvio Cruschina (University of Helsinki), Maria F. Ferin (University of Siena) "A commitment-based semantics for Italian <i>volere</i> 'want' "</p>
+<p>12:00 -- 12:30 Marina Pérez del Valle (UMass Amherst) "Conflicting desires and the means to our ends"</p>
+
+<br>
+
+<p>Day 4, Aug 13</p>
+<br>
+<p>11:00 -- 11:30 Setayesh Dashti, Zahra Mirrazi, Huilei Wang, Hedde Zeijlstra (Göttingen), Manfred Sailer (Frankfurt)  "Semantics of attitude predicates and neg-raising"</p>
+<p>11:30 -- 11:45 Poster session lightning talks</p>
+<p>11:45 -- 12:30 Poster session</p>
+
+<br>
+
+<p>Day 5, Aug 14</p>
+
+<br>
+
+<p>11:00 -- 12:00 Invited talk: Tomas Grano (Indiana University)</p>
+<p>12:00 -- 12:30 Closing remarks</p>
+
+<br>
+
+<p>Poster presentations:</p>
+
+<li>Melanie Bervoets "Algorithms and their communicative attitudes"</li>
+<li>Joshua Boivin (Queen Mary University of London) "What is it to intend? A conceptual argument"</li>
+<li>Achille Fusco (University of Florence) "No Crisp Judgement: Gradability and State Abstraction in Italian trovare"</li>
+<li>Paula Menendez Benito (Tübigen), Aynat Rubinstein (Hebrew University of Jerusalem) "Mood without an attitude: a look at root indicatives"</li>
+<li>Ziling Zhu (Göttingen), Chungmin Lee (Seoul National University), Linmin Zhang (NYU Shanghai) "Alternation in factivity and lexical meaning: A unified alternative-based account"</li>
+
+
+  <br> 
+  
+  
+  
+  </details>
 
 
 <br>
