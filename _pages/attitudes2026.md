@@ -93,8 +93,8 @@ nav: false
 <p>Day 3, Aug 12</p>
 <br>
 
-<p>11:00 -- 11:30 Wojciech Rostworowski, Katarzyna Kuś, Bartosz Maćkiewicz (University of Warsaw) "Free Choice in Desire Ascriptions" (online)</p>
-<p>11:30 -- 12:00 Achille Fusco (University of Florence), Valentina Bianchi (University of Siena), Silvio Cruschina (University of Helsinki), Maria F. Ferin (University of Siena) "A commitment-based semantics for Italian <i>volere</i> 'want' "</p>
+<p>11:00 -- 11:30 Wojciech Rostworowski, Katarzyna Kuś, Bartosz Maćkiewicz (Warsaw) "Free Choice in Desire Ascriptions" (online)</p>
+<p>11:30 -- 12:00 Achille Fusco (Pavia), Valentina Bianchi (Siena), Silvio Cruschina (Helsinki), Maria F. Ferin (Siena) "A commitment-based semantics for Italian <i>volere</i> 'want' "</p>
 <p>12:00 -- 12:30 Marina Pérez del Valle (UMass Amherst) "Conflicting desires and the means to our ends"</p>
 
 <br>
@@ -119,8 +119,8 @@ nav: false
 <p>Poster presentations:</p>
 
 <li>Melanie Bervoets "Algorithms and their communicative attitudes"</li>
-<li>Joshua Boivin (Queen Mary University of London) "What is it to intend? A conceptual argument"</li>
-<li>Achille Fusco (University of Florence) "No Crisp Judgement: Gradability and State Abstraction in Italian trovare"</li>
+<li>Joshua Boivin (Queen Mary London) "What is it to intend? A conceptual argument"</li>
+<li>Achille Fusco (Pavia) "No Crisp Judgement: Gradability and State Abstraction in Italian trovare"</li>
 <li>Paula Menendez Benito (Tübigen), Aynat Rubinstein (Hebrew University of Jerusalem) "Mood without an attitude: a look at root indicatives"</li>
 <li>Ziling Zhu (Göttingen), Chungmin Lee (Seoul National University), Linmin Zhang (NYU Shanghai) "Alternation in factivity and lexical meaning: A unified alternative-based account"</li>
 
