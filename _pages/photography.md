@@ -13,7 +13,7 @@ Here are some photos I have taken. You can find more [here](https://www.flickr.c
   <summary>conferences</summary>
 
   <br>
-
+<li><a href="https://flic.kr/s/aHBqjCWNuA">Workshop "Polar Questions Across Languages 3"</a>, University of Göttingen, Germany, 2026</li>
 <li><a href="https://flic.kr/s/aHBqjCAznW">Workshop "Acquiantance, familiarity, value"</a>, Barcelona, Spain, 2025</li>  
 <li><a href="https://flic.kr/s/aHBqjCAFYA">Workshop "Normative generics"</a>, Konstanz, Germany, 2025</li>  
   <li><a href="https://flic.kr/s/aHBqjBZ69P">Workshop "Background beliefs in the construction of meaning"</a>, Tübingen, Germany, 2025</li>
