@@ -10,7 +10,7 @@ nav: false
 
 <p><b>Organizers</b>: Natasha Korotkova (Utrecht University) and <a href="https://web-risc.ens.fr/~smascarenhas/" target="_blank">Salvador Mascarenhas</a> (ENS)</p>
 
-<p><b>When</b>: August 10-14, 2026</p>
+<p><b>When</b>: August 10-14, 2026; every day 11:00 to 12:30</p>
 
 <p><b>Where</b>: Prague, Czech Republic</p>
 
@@ -118,7 +118,7 @@ nav: false
 
 <br>
 
-<p>Poster presentations:</p>
+<p><u>Poster presentations:</u></p>
 
 <li>Melanie Bervoets "Algorithms and their communicative attitudes"</li>
 <li>Joshua Boivin (Queen Mary London) "What is it to intend? A conceptual argument"</li>
