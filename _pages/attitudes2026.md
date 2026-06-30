@@ -87,7 +87,8 @@ nav: false
 <p><u>Day 2, Aug 11</u></p>
 <br>
 <p>11:00 -- 11:30 Tomasz Klochowicz (ILLC, UvA) "Believing disjunctions"</p>
-<p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin) "How we reason about other people’s intentions"
+<p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin)<p> 
+ <p> "How we reason about other people’s intentions"</p>
 <details><summary>abstract:</summary> <p>I discuss the primacy of inferences about intentions, with empirical evidence that our
 beliefs about other people’s needs and wants are often left unsaid, for example in
 “biscuit” conditionals. I also consider the importance of inferences about intentions,
@@ -99,7 +100,7 @@ situation could have been different. I then outline evidence on some of the ways
 intentional imagination about reasons for actions differs from our causal imagination
 about causes for effects. I conclude with a summary of evidence on our intentional
 reasoning about external reasons such as obligations and social norms and internal
-reasons such as desires and goals.</p></details></p>
+reasons such as desires and goals.</p></details>
 
 
 <br>
@@ -125,8 +126,9 @@ reasons such as desires and goals.</p></details></p>
 
 <br>
 
-<p>11:00 -- 12:00 Invited talk: Thomas Grano (Indiana University) "Direction of fit and the grammar of attitude reports"<details><summary>abstract:</summary> Cross-linguistically, complements to ‘believe’ verbs tend to resemble declarative main clauses, whereas complements to ‘want’ verbs often have a different syntax. In this talk, I assess a recent suggestion by Friederike Moltmann that this pattern reflects a contrast in direction of fit, in the sense of John Searle and other philosophers of mind and language. I argue that the suggestion is viable, although it requires some revisions to Moltmann’s diagnostics for direction of fit, and it is also limited in that it does not cover all attitude predicates. I close by asking why complement syntax should be sensitive to direction of fit and whether a reduction to truth-conditional properties of attitude reports might be possible.</details>
-</p>
+<p>11:00 -- 12:00 Invited talk: Thomas Grano (Indiana University)<p> 
+<p>"Direction of fit and the grammar of attitude reports"</p>
+<details><summary>abstract:</summary><p>Cross-linguistically, complements to ‘believe’ verbs tend to resemble declarative main clauses, whereas complements to ‘want’ verbs often have a different syntax. In this talk, I assess a recent suggestion by Friederike Moltmann that this pattern reflects a contrast in direction of fit, in the sense of John Searle and other philosophers of mind and language. I argue that the suggestion is viable, although it requires some revisions to Moltmann’s diagnostics for direction of fit, and it is also limited in that it does not cover all attitude predicates. I close by asking why complement syntax should be sensitive to direction of fit and whether a reduction to truth-conditional properties of attitude reports might be possible.<br></p></details>
 <p>12:00 -- 12:30 Closing remarks</p>
 
 <br>
