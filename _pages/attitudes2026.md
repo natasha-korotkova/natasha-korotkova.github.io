@@ -87,9 +87,8 @@ nav: false
 <p><u>Day 2, Aug 11</u></p>
 <br>
 <p>11:00 -- 11:30 Tomasz Klochowicz (ILLC, UvA) "Believing disjunctions"</p>
-<p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin) "How we reason about other people’s intentions"</p>
-
-<details><summary>Abstract:</summary> <p>I discuss the primacy of inferences about intentions, with empirical evidence that our
+<p>11:30 -- 12:30 Invited talk: Ruth Byrne (University of Dublin) "How we reason about other people’s intentions"
+<details><summary>abstract:</summary> <p>I discuss the primacy of inferences about intentions, with empirical evidence that our
 beliefs about other people’s needs and wants are often left unsaid, for example in
 “biscuit” conditionals. I also consider the importance of inferences about intentions,
 with evidence that our inferences about a person’s beliefs and knowledge affect our
@@ -100,7 +99,7 @@ situation could have been different. I then outline evidence on some of the ways
 intentional imagination about reasons for actions differs from our causal imagination
 about causes for effects. I conclude with a summary of evidence on our intentional
 reasoning about external reasons such as obligations and social norms and internal
-reasons such as desires and goals.</p></details>
+reasons such as desires and goals.</p></details></p>
 
 
 <br>
