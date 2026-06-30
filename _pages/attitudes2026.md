@@ -125,7 +125,8 @@ reasons such as desires and goals.</p></details></p>
 
 <br>
 
-<p>11:00 -- 12:00 Invited talk: Thomas Grano (Indiana University)</p>
+<p>11:00 -- 12:00 Invited talk: Thomas Grano (Indiana University) "Direction of fit and the grammar of attitude reports"<details><summary>abstract:</summary> Cross-linguistically, complements to ‘believe’ verbs tend to resemble declarative main clauses, whereas complements to ‘want’ verbs often have a different syntax. In this talk, I assess a recent suggestion by Friederike Moltmann that this pattern reflects a contrast in direction of fit, in the sense of John Searle and other philosophers of mind and language. I argue that the suggestion is viable, although it requires some revisions to Moltmann’s diagnostics for direction of fit, and it is also limited in that it does not cover all attitude predicates. I close by asking why complement syntax should be sensitive to direction of fit and whether a reduction to truth-conditional properties of attitude reports might be possible.</details>
+</p>
 <p>12:00 -- 12:30 Closing remarks</p>
 
 <br>
