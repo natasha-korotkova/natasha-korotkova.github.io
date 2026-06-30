@@ -19,7 +19,7 @@ nav: false
 <p>Invited speakers:</p> 
 
 <style>li{margin-left:1.5em}</style>
-<li><a href="https://reasoningandimagination.com/">Ruth Byrne</a> (University of Dublin)</li>
+<li><a href="https://reasoningandimagination.com/](https://www.tcd.ie/psychology/people/academic-staff/rmbyrne/">Ruth Byrne</a> (University of Dublin)</li>
 <li><a href="https://sites.google.com/site/tgrano/">Thomas Grano</a> (Indiana University, Bloomington)</li>
 <li><a href="https://phillab.host.dartmouth.edu/">Jonathan Phillips</a> (Dartmouth College)</li>
 
