@@ -71,7 +71,7 @@ nav: false
 <p>Every submission will be considered first and foremost as a possible talk, but authors will be asked to indicate at the moment of submission whether they wish for their abstract to be considered for the possible poster session in addition. We should also note that all workshop participants will be asked to pay the ESSLLI registration fee. Depending on the number of participants and their funding situation, we hope to be able to cover some of these costs, but can’t be sure at present.</p>
  </details>
 
-<details> <summary>Preliminary program</summary> 
+<details> <summary>Program</summary> 
 
 <br>
 <p>Workshop dinner (self-paid): Tuesday, August 11; details TBA</p>
@@ -80,7 +80,10 @@ nav: false
   <br>
 <p>11:00 -- 11:30 Introduction by the organizers</p>
 <p>11:30 -- 12:30 Invited talk: Jonathan Phillips (Dartmouth)</p>
-
+<p>Knowledge actually</p>
+<details><summary>abstract:</summary> Knowledge has received a fair amount of attention both in work on the semantics of attitude ascriptions and in work on the psychological capacity to represent others' minds. The relationship between these two bodies of work, however, remains unclear: it is not obvious what a semantics for know should tell us about the cognitive capacity that underwrites our ordinary knowledge attributions, or what that capacity should tell us about the semantics. This paper asks how the two might fit together, and offers one way of doing so. I argue for a view on which attributing knowledge to others does not require meta-representation---a representation of the attributed content that is maintained separately from one's own representation of the world---but instead involves something more like a pointer to pieces of one's own primary representation of the actual world. An immediate worry for such a view is that we seem to be able to represent others as knowing things we do not know ourselves. I suggest that, on closer inspection, these cases support the proposal rather than count against it. I end by discussing what this picture suggests about knowledge ascriptions in natural language, including knowledge-wh. <p>
+</p></details>
+<br>
 
 
 <br>
