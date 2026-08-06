@@ -148,8 +148,6 @@ reasons such as desires and goals.</p></details>
   <br> 
   
   
-  
-  </details>
 
 
 <br>
