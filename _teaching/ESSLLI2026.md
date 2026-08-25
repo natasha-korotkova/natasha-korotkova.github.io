@@ -21,13 +21,13 @@ Recently, there has been an explosion of cross-linguistic work on the ﬁne-grai
 
 We know that some properties of goals, e.g., rationality, are instrumental in understanding the properties of language that describes them, including predicates like “plan” and “intend” and other deliberative environments. Likewise, the distinction between propositional vs. episodic memory is helpful in understanding the properties of memory reports with predicates like “remember”. To what extent is this generalizable—in other words, to what extent does the linguistic behavior of attitude predicates reﬂect the underlying differences in the attitudes they describe? The overarching goal of this course is to address this central question via a multi-faceted guided tour of the natural classes found in the domain of doxastic predicates, those that talk about knowledge and belief. The course will scrutinize different types of such verbs by looking beyond ‘know’ and ‘think’, with an eye on elucidating subtle linguistic distinctions between them. It takes inspiration in classical work within lexical semantics on natural classes within ‘ordinary’, non-attitude predicates and seeks to understand what kind of cognitive primitives may be at play with their attitude cousins, focusing to the core concepts of ‘knowledge’, ‘evidence’ and ‘belief’ and their linguistic manifestations in the attitudinal domain.
 
-Preliminary schedule:
+Schedule + course materials:
 
-<li>Day 1: attitudes at large, linguistic encoding of 'knowledge' and 'belief'</li>
-<li>Day 2: factivity and its sources</li>
-<li>Day 3: 'come-to-know' predicates as a natural class</li>
-<li>Day 4: subjective attitudes and find-verbs across languages</li>
-<li>Day 5: general overview, possible taxonomies of doxastic predicates</li>
+<li>Day 1: Introduction, class outlook, big questions <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day1.pdf">[slides]</a></li>
+<li>Day 2: Knowledge, factivity, truth <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day2.pdf">[slides]</a></li>
+<li>Day 3: English 'come-to-know' predicates as a natural class <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day3.pdf">[slides]</a>, <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/ctk.pdf">[handout w/ formal analysis]</a></li>
+<li>Days 4 and 5: Refining _find_ (and friends): English _find_, characterizing predicates <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day4-5.pdf">[slides]</a>, <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/find.pdf">[handout w/ simplified formal analysis]</a>, <a href="https://lingbuzz.net/lingbuzz/010263">[manuscript]</a></li>
+<li>Bonus: A saucerful of _find_s, talk at the <a href="https://sites.google.com/view/pac2026/home">Polysemy Across Categories</a> workshop <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/finds.pdf">[slides]</a></li>
 
 
 Course materials: to appear here in due time! Stay tuned.
