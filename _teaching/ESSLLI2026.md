@@ -26,7 +26,7 @@ Schedule + course materials:
 <li>Day 1: Introduction, class outlook, big questions <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day1.pdf">[slides]</a></li>
 <li>Day 2: Knowledge, factivity, truth <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day2.pdf">[slides]</a></li>
 <li>Day 3: English 'come-to-know' predicates as a natural class <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day3.pdf">[slides]</a>, <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/ctk.pdf">[handout w/ formal analysis]</a></li>
-<li>Days 4 and 5: Refining <i>find</i> (and friends): English _find_, characterizing predicates <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day4-5.pdf">[slides]</a>, <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/find.pdf">[handout w/ simplified formal analysis]</a>, <a href="https://lingbuzz.net/lingbuzz/010263">[manuscript]</a></li>
+<li>Days 4 and 5: Refining <i>find</i> (and friends): English <i>find</i>, characterizing predicates <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/esslli37-korotkova-attitudes-day4-5.pdf">[slides]</a>, <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/find.pdf">[handout w/ simplified formal analysis]</a>, <a href="https://lingbuzz.net/lingbuzz/010263">[manuscript]</a></li>
 <li>Bonus: A saucerful of <i>find</i>s, talk at the <a href="https://sites.google.com/view/pac2026/home">Polysemy Across Categories</a> workshop <a href="https://natasha-korotkova.github.io/summerschools/2026esslli/finds.pdf">[slides]</a></li>
 
 
