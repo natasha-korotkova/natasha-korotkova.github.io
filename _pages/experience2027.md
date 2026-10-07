@@ -14,15 +14,17 @@ nav: false
 
 <p><b>Where</b>: MIT Linguistics and Philosophy, Boston, MA, USA</p>
 
+<br>
+
 <p>Recent years have seen substantial interest in acquaintance phenomena within philosophy and linguistics. Underlying mental attitudes.</p> 
 
-<p>Speakers:</p> 
+<br>
 
-<a href="" target="_blank"></a>
+<p><b>Speakers</b>:</p> 
 
 <style>li{margin-left:1.5em}</style>
 <li><a href="https://www.natecharlow.com/" target="_blank">Nate Charlow</a> (Toronto), commentary by <a href="https://dilip-ninan.github.io/" target="_blank">Dilip Ninan</a> (Tufts)</li>
-<li><a href="https://sites.google.com/site/franzenils" target="_blank">Nils Franzén</a> ((Umeå University) and <a href="" target="_blank">Andrés Soria-Ruiz</a> (University of Barcelona), commentary by <a href="https://cariani.org/" target="_blank">Fabrizio Cariani</a></li>
+<li><a href="https://sites.google.com/site/franzenils" target="_blank">Nils Franzén</a> ((Umeå University) and <a href="" target="_blank">Andrés Soria-Ruiz</a> (University of Barcelona), commentary by <a href="https://cariani.org/" target="_blank">Fabrizio Cariani</a> (University of Maryland)</li>
 <li><a href="https://www.justinkhoo.com/" target="_blank">Justin Khoo</a> (MIT), commentary by <a href="https://www.daniel-star.net/" target="_blank">Daniel Star</a> (Boston University)</li>
 <li><a href="https://sites.google.com/view/rachelettarudolph" target="_blank">Rachel Rudolph</a> (UC San Diego), commentary by <a href="" target="_blank">Tanya Bondarenko</a> (Harvard)</li>
 <li><a href="https://natasha-korotkova.github.io/" target="_blank">Natasha Korotkova</a> (Utrecht University), joint work with <a href="https://people.ucsc.edu/~panand/" target="_blank">Pranav Anand</a> (UC Santa Cruz), commentary by <a href="https://www.kaivonfintel.org/about/" target="_blank">Kai von Fintel</a> (MIT)</li>
