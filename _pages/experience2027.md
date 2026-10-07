@@ -8,7 +8,7 @@ nav: false
   
 <h2>Workshop "Language and Experience"</h2>
 
-<p><b>Organizers</b>: <a href="https://sites.google.com/site/franzenils/" target="_blank">Nils Franzén</a> (Umeå University, Sweden), <a href="https://www.justinkhoo.com/" target="_blank">Justin Khoo</a> (MIT, USA), Natasha Korotkova (Utrecht University, Netherlands) and <a href="https://sites.google.com/view/andressoriaruiz/home" target="_blank">Andrés Soria-Ruiz</a> (University of Barcelona, Spain)</p>
+<p><b>Organizers</b>: <a href="https://sites.google.com/site/franzenils/" target="_blank">Nils Franzén</a> (Umeå University, Sweden), <a href="https://www.justinkhoo.com/" target="_blank">Justin Khoo</a> (MIT, USA), <a href="https://natasha-korotkova.github.io/" target="_blank">Natasha Korotkova</a> (Utrecht University, Netherlands) and <a href="https://sites.google.com/view/andressoriaruiz/home" target="_blank">Andrés Soria-Ruiz</a> (University of Barcelona, Spain)</p>
 
 <p><b>When</b>: May 7-8, 2027</p>
 
