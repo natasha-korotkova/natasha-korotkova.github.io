@@ -44,6 +44,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 ## News
 
+* December 2026. "How and what _find_ triggers: Content backgrounding in subjective attitudes and event structure". Poster at [the 50th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2026/). (joint work w/ Pranav Anand)
 * August 2026. "A saucerful of _finds_". Talk at the workshop ["Polysemy across categories"](https://sites.google.com/view/pac2026/home), ESSLLI 37. (joint work w/ Pranav Anand)
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026).
 * August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026). (w/ S.Mascarenhas)
