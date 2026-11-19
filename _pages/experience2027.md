@@ -16,7 +16,7 @@ nav: false
 
 <br>
 
-<p>Recent years have seen substantial interest in acquaintance phenomena within philosophy and linguistics. TEST TEST TEST TEST.</p> 
+<p>It has long been observed that certain linguistic expressions require a kind of experiential grounding, often referred to as the Acquaintance Inference. Thus, one is only entitled to say _This tea is delicious_ if one has tried the tea in question. This phenomenon is distinct from the norms governing regular assertions--to wit, one can say _This vase is fragile_ without even attempting to break it. What is acquaintance, what does it tell us about the nature of knowledge and judgment, and is it encoded grammatically in any way? These questions have been addressed from various angles within philosophy and linguistics, though these strands of work often remain disconnected. In this two-day workshop, we bring together philosophers and linguists to talk about acquaintance-adjacent topics. Come join us!</p> 
 
 <br>
 
