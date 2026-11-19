@@ -37,7 +37,6 @@ My research program centers on knowledge and belief: (i) the many means language
 
 * August 2026. Korotkova, N. and P. Anand. Refining _find_. Under review. [\[paper\]](https://lingbuzz.net/lingbuzz/010263) 
 * April 2026. Korotkova, N. The notional category of evidentiality. To appear in: Arregui, A., V. Hacquard, and M. Ippolito (Eds.), _The Cambridge Handbook of Natural Language Modality_. [\[paper\]](https://lingbuzz.net/lingbuzz/009373?_s=xPMclSP2p7yEkV42&_k=1Uz9VbwQ5f5NHspr)
-* March 2026. Korotkova, N. Hearsay and (non-)endorsement. Accepted to _Languages_ (minor revisions). [\[paper\]](https://ling.auf.net/lingbuzz/009842)
 * January 2026. Korotkova, N. A novel perspective on negative bias in polar questions: The view from Russian. To appear in: Eckardt, R., N. Dehé, and G. Walkden (Eds.), _The Oxford Handbook of Noncanonical Questions_. [\[paper\]](https://ling.auf.net/lingbuzz/008228)
 
   
@@ -46,6 +45,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 * January 2027. TBA. Invited talk, Institute of Linguistics, Heinrich-Heine-Universität Düsseldorf, Germany.
 * December 2026. "How event structure determines content backgrounding: the case of subjective _find_". Poster at [the 25th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2026/). (joint work w/ Pranav Anand)
+* November 2026. New paper: "Hearsay and (non-)endorsement". Languages 11. [\[paper\]]([https://edoc.hu-berlin.de/items/bac101f3-17e8-440d-a630-0e74e1892d76](https://doi.org/10.3390/languages11110244))
 * August 2026. "A saucerful of _finds_". Talk at the workshop ["Polysemy across categories"](https://sites.google.com/view/pac2026/home), ESSLLI 37. (joint work w/ Pranav Anand)
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026).
 * August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026). (w/ S.Mascarenhas)
