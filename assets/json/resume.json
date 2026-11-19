@@ -173,7 +173,15 @@
 
 "conferences organized":[
 
+{"name": "Language and Experience",
+"date": "2027",
+"institution":"MIT",
+"location":"Boston, USA",
+"summary":"Co-organized with N.Franzén, J.Khoo, A.Soria-Ruiz",
+"url":"https://natasha-korotkova.github.io/experience2027.html" 
+},
 
+	
 {"name": "Conceptual Structure of Attitudes",
 "date": "2026",
 "institution":"ESSLLI 37",
