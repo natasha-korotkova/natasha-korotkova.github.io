@@ -45,7 +45,7 @@ My research program centers on knowledge and belief: (i) the many means language
 
 * January 2027. TBA. Invited talk, Institute of Linguistics, Heinrich-Heine-Universität Düsseldorf, Germany.
 * December 2026. "How event structure determines content backgrounding: the case of subjective _find_". Poster at [the 25th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2026/). (joint work w/ Pranav Anand)
-* November 2026. New paper: "Hearsay and (non-)endorsement". _Languages_ 11. [\[paper\]]([https://doi.org/10.3390/languages11110244])
+* November 2026. New paper: "Hearsay and (non-)endorsement". _Languages_ 11. [\[paper\]](https://doi.org/10.3390/languages11110244)
 * August 2026. "A saucerful of _finds_". Talk at the workshop ["Polysemy across categories"](https://sites.google.com/view/pac2026/home), ESSLLI 37. (joint work w/ Pranav Anand)
 * August 2026. ["On the plurality of verbs: Attitudes of knowledge and belief"](https://natasha-korotkova.github.io/teaching/ESSLLI2026/), course during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026).
 * August 2026. ["Conceptual structure of attitudes: Language and cognition"](https://natasha-korotkova.github.io/attitudes2026.html), workshop during Week 2 of [ESSLLI 37](https://ufal.mff.cuni.cz/esslli-2026). (w/ S.Mascarenhas)
