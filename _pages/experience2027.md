@@ -16,7 +16,7 @@ nav: false
 
 <br>
 
-<p>Recent years have seen substantial interest in acquaintance phenomena within philosophy and linguistics. Underlying mental attitudes.</p> 
+<p>Recent years have seen substantial interest in acquaintance phenomena within philosophy and linguistics. TEST TEST TEST.</p> 
 
 <br>
 
